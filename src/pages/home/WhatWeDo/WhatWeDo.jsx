@@ -1,5 +1,4 @@
 import React from "react";
-// import { images } from "../../../constants/data";
 import images from "../../../constants/images.js";
 import "./WhatWeDo.css";
 import { Link } from "react-router-dom";

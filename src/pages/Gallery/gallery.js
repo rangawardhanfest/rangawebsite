@@ -55,7 +55,6 @@ import kdance from './img/kdance.jpg';
 import tabala from './img/tabala.jpg';
 import white from './img/white.JPG';
 import tshirt from './img/tshirt.JPG';
-import cant from './img/canteen.jpg'
 import treasure1 from './img/treasure1.jpg'
 import treasure2 from './img/treasure2.jpg'
 import treasure3 from './img/treasure3.jpg'
