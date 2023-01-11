@@ -47,9 +47,9 @@ const Navbar = () => {
        <li className="nav-item">
         <Link  to="/gallery" className="nav-link" onClick={()=>close()}>Gallery</Link>
        </li>
-       <li className="nav-item">
-        <Link  to="/sponsors"className="nav-link" onClick={()=>close()}>Sponsors</Link>
-       </li>
+//        <li className="nav-item">
+//         <Link  to="/sponsors"className="nav-link" onClick={()=>close()}>Sponsors</Link>
+//        </li>
        <li className="nav-item">
         <Link to="/natyavardhan" className="nav-link" onClick={()=>close()}>Natyavardhan</Link>
        </li>
