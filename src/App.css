@@ -2,6 +2,7 @@
   outline: none;
   border-bottom: 0;
   font-family: Gotu;
+  text-align: center;
 }
 .container {
   width: 100%;
@@ -194,10 +195,7 @@ body {
   transition: transform 0.25s ease-out;
 }
 
-.section-title:hover::after {
-  transform: scaleX(1);
-  transform-origin: bottom left;
-}
+
 .App {
   overflow-x: hidden;
 }
@@ -221,7 +219,7 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: textclip 2s linear infinite;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 @keyframes textclip {

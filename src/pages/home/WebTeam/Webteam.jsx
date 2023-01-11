@@ -7,9 +7,9 @@ import { FaEnvelope, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 const Webteam = () => {
   return (
-    <div className="container" style={{marginBottom:'50px'}}>
+    <div className="container">
         <div className="section-title" data-aos="zoom-in-up" style={{borderRadius:'10px'}}>
-          <h2 className="animate-charcter" style={{margin:"3%"}}>WebDev Team</h2>
+          <h2 className="past" style={{margin:"3%"}}>WebDev Team</h2>
         </div>
         <div className="team-content py-2 grid" data-aos="zoom-in-up">
           {d.teams.map((teams, index) => {

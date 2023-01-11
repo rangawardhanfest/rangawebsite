@@ -4,10 +4,10 @@ import './Sponsors.css'
 const Sponsors = () => {
   return (
     <>
-<section className ='sponsors' id='sponsors'>
+<section  id='sponsors'>
     <div className='container'>
         <div className='section-title'data-aos="zoom-in-up" data-aos-duration="3000">
-            <h1 className='animate-charcter sponshead' >Sponsors</h1> 
+            <h1 className='big' style={{color: "rgb(255, 174, 66)"}}>Sponsors</h1> 
         </div>
         <div className='sponsors-content grid py-6' >
             {
