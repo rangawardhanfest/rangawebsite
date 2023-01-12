@@ -1,6 +1,6 @@
 import React from "react";
 import "./EventsMain.css";
-import VirtualEvents from "../../images/Virutal Event.png";
+import VirtualEvents from "../../images/Virtual Events.png";
 import AnnualEvents from "../../images/Annual Event.png";
 import DecemberToRemember from "../../images/December To Remember - Events - Rangawardhan VJTI.jpg";
 import "./event.css";
@@ -93,10 +93,10 @@ const EventsMain = () => {
             </a>
           </div>
           <div class="card">
-            <a href="/virtualevents">
+            <a href="/halloffame">
               <img src={VirtualEvents} alt="" />
               <div class="info">
-                <h1 className="info-t">Virtual Events</h1>
+                <h1 className="info-t">Hall of Fame</h1>
               </div>
             </a>
           </div>

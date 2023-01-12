@@ -125,11 +125,11 @@ const sectorHeads=[
         m:'mailto: aabandichode_b20@tx.vjti.ac.in'
     },
     {
-        img: `${images.Pranjal}`,
-        name: "Pranjal Landge",
+        img: `${images.jagruti}`,
+        name: "Jagruti Thakur",
         Post: 'Chief Design Officer',
-        l:'',
-        i:'',
+        l:'https://www.linkedin.com/in/jagruti-thakur-30805a261',
+        i:'https://instagram.com/jagrutithakur160?igshid=NTdlMDg3MTY=',
         m:''
     },
     {
