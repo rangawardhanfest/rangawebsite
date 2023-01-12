@@ -35,7 +35,7 @@ function App() {
         <Route path='/events' element ={<EventsMain />} />
         <Route path="/decembertoremember" element={<DecemberToRemember /> } />
           <Route path="/annualevents" element={<AnnualEvents/>} />
-          <Route path="/virtualevents" element={<VirtualEvents/>} />
+          <Route path="/halloffame" element={<VirtualEvents/>} />
           <Route path='/contact' element ={<ContactUs /> } />
           <Route path ='/gallery' element ={<Gallery />  } />
           <Route path ='/natyavardhan' element ={<Natya />} />
