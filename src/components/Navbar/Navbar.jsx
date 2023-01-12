@@ -23,8 +23,7 @@ const Navbar = () => {
                 <FaBars size={26} />
              </button>
             </div>
-<div className={`navbar-collapse flex flex-center ${click ? "show-navbar" :" "}`}
->
+<div className={`navbar-collapse flex flex-center ${click ? "show-navbar" :" "}`}>
     <button type ="button" className="navbar-hide-btn text-white" onClick={()=>close()}>
         <FaTimes size ={32} />
     </button>
@@ -47,9 +46,6 @@ const Navbar = () => {
        <li className="nav-item">
         <Link  to="/gallery" className="nav-link" onClick={()=>close()}>Gallery</Link>
        </li>
-//        <li className="nav-item">
-//         <Link  to="/sponsors"className="nav-link" onClick={()=>close()}>Sponsors</Link>
-//        </li>
        <li className="nav-item">
         <Link to="/natyavardhan" className="nav-link" onClick={()=>close()}>Natyavardhan</Link>
        </li>
