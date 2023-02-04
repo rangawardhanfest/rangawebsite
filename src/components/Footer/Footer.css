@@ -52,9 +52,10 @@ footer {
     margin: 20px 0;
 }
 
-ul li {
+.col ul li {
     list-style: none;
     margin-bottom: 12px;
+    text-align: left;
 }
 
 ul li a {
@@ -183,4 +184,8 @@ hr {
     footer {
        margin-left: 5px;
     }
+}
+
+p{
+    text-align:left;
 }
