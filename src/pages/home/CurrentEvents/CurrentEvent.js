@@ -18,7 +18,7 @@ const CurrentEvent = () => {
           <section className="allevents" style={{backgroundColor: 'black'}}>
             <div className="events" style={{backgroundColor: 'black'}}>
               <div className="allevent_card">
-                <a href="https://forms.gle/cfvfYs36wf4EnaqGA" target="_blank">
+                <a href="https://forms.gle/cfvfYs36wf4EnaqGA" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={akpatri} alt="" />
@@ -30,7 +30,7 @@ const CurrentEvent = () => {
                 </a>
               </div>
               <div className="allevent_card">
-              <a href="https://forms.gle/mQENRwaSDACs6gpJ8" target="_blank">
+              <a href="https://forms.gle/mQENRwaSDACs6gpJ8" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={path} alt="" />
@@ -42,7 +42,7 @@ const CurrentEvent = () => {
                 </a>
               </div>
               <div className="allevent_card">
-              <a href="https://forms.gle/Fb4huGeFYmQniUMf9" target="_blank">
+              <a href="https://forms.gle/Fb4huGeFYmQniUMf9" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={kawadasa} alt="" />
