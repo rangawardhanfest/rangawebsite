@@ -21,7 +21,7 @@ const CurrentEvent = () => {
                 <a href="https://forms.gle/cfvfYs36wf4EnaqGA" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
-                    <img src={akpatri} alt="" />
+                    <img src={kawadasa} alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>कवडसा</h4>
@@ -45,7 +45,7 @@ const CurrentEvent = () => {
               <a href="https://forms.gle/Fb4huGeFYmQniUMf9" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
-                    <img src={kawadasa} alt="" />
+                    <img src={akpatri} alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>एकपात्री </h4>
