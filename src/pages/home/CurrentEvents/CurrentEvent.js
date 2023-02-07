@@ -15,8 +15,8 @@ const CurrentEvent = () => {
       <section className="event2" style={{backgroundColor: 'black'}}>
         <div className="yearly_events1" style={{backgroundColor: 'black'}}>
           <div className="section-title" data-aos="zoom-in-up" style={{backgroundColor: 'black'}}>
-            <h3 className=" past" style={{ paddingTop: "2vw" }}>
-              Register for Upcoming Events
+            <h3 className=" past" style={{ paddingTop: "2vw" }}>   
+आगामी कार्यक्रमांसाठी नोंदणी करा
             </h3>
           </div>
         </div>
@@ -58,7 +58,22 @@ const CurrentEvent = () => {
                   </div>
                 </div>
                 </a>
-              </div>
+              </div>   
+            </div>
+          </section>
+        </section>
+      </section>
+      <section className="event2" style={{backgroundColor: 'black'}}>
+        <div className="yearly_events1" style={{backgroundColor: 'black'}}>
+          <div className="section-title" data-aos="zoom-in-up" style={{backgroundColor: 'black'}}>
+            <h3 className=" past" style={{ paddingTop: "2vw" }}>
+            युवा साहित्य संमेलन
+            </h3>
+          </div>
+        </div>
+        <section id="all_events1" style={{backgroundColor: 'black'}}>
+          <section className="allevents" style={{backgroundColor: 'black'}}>
+            <div className="events" style={{backgroundColor: 'black'}}>
               <div className="allevent_card style1">
               <a href="https://forms.gle/T5KBSQWZdjXG3h1D6" target="_blank" rel="noreferrer">
                 <div className="event_info">
