@@ -47,7 +47,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>पथनाट्य</h4>
-                    <p style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
                   </div>
                 </div>
                 </a>
@@ -60,7 +60,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>एकपात्री </h4>
-                    <p style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
                   </div>
                 </div>
                 </a>
