@@ -8,6 +8,9 @@ import vyangchitra from "./vyang chitra.png"
 import prasang from "./prasang.png"
 import kavya from "./Kavya lekhan.png"
 import chitrapath from "./Chitrapat.png"
+import singing1 from "./singing1.png"
+import TBI from "./in assosication with VJTI TBI.png"
+import dance from "./dance.png"
 import "./CurrentEvents.css"
 const CurrentEvent = () => {
   return (
@@ -31,6 +34,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>कवडसा</h4>
+                    <p style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
                   </div>
                 </div>
                 </a>
@@ -43,6 +47,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>पथनाट्य</h4>
+                    <p style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
                   </div>
                 </div>
                 </a>
@@ -55,11 +60,54 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>एकपात्री </h4>
+                    <p style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
                   </div>
                 </div>
                 </a>
               </div>   
-            </div>
+
+              <div className="allevent_card style1">
+              <a href="https://forms.gle/V4aUiWGvV9CabJry8" target="_blank" rel="noreferrer">
+                <div className="event_info">
+                  <div className="event_info_img1">
+                    <img src={singing1} alt="" />
+                  </div>
+                  <div className="event_info_name">
+                    <h4 style={{ fontFamily: "Gotu" }}>सुर निरागस हो </h4>
+                    <p style={{ fontFamily: "Gotu",color:"white"}}>(only for VJTIans) </p>
+                  </div>
+                </div>
+                </a>
+              </div>   
+
+              <div className="allevent_card style1">
+              <a href=" https://forms.gle/sBaKy9UaWHm9By5u5" target="_blank" rel="noreferrer">
+                <div className="event_info">
+                  <div className="event_info_img1">
+                    <img src={dance} alt="" />
+                  </div>
+                  <div className="event_info_name">
+                    <h4 style={{ fontFamily: "Gotu" }}>नृत्याविष्कार </h4>
+                    <p style={{ fontFamily: "Gotu",color:"white"}}>(only for VJTIans) </p>
+                  </div>
+                </div>
+                </a>
+              </div>   
+
+              <div className="allevent_card style1">
+              <a href="https://forms.gle/WySr5Bqj67hmMPRE7" target="_blank" rel="noreferrer">
+                <div className="event_info">
+                  <div className="event_info_img1">
+                    <img src={TBI} alt="" />
+                  </div>
+                  <div className="event_info_name">
+                    <h4 style={{ fontFamily: "Gotu" }}>Documentary Making </h4>
+                    <p style={{ fontFamily: "Gotu",color:"white"}}>(only for VJTIans) </p>
+                  </div>
+                </div>
+                </a>
+              </div>   
+            </div>   
           </section>
         </section>
       </section>
@@ -69,6 +117,7 @@ const CurrentEvent = () => {
             <h3 className=" past" style={{ paddingTop: "2vw" }}>
             युवा साहित्य संमेलन
             </h3>
+            <p style={{ fontFamily: "Gotu",color:"white"}}>(Intercollege competition)</p>
           </div>
         </div>
         <section id="all_events1" style={{backgroundColor: 'black'}}>
