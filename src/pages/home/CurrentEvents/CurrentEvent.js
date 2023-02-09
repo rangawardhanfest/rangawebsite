@@ -9,7 +9,7 @@ import prasang from "./prasang.png"
 import kavya from "./Kavya lekhan.png"
 import chitrapath from "./Chitrapat.png"
 import singing1 from "./singing1.png"
-import TBI from "./in assosication with VJTI TBI.png"
+import tbi from "./in assosication with VJTI TBI.png"
 import dance from "./dance.png"
 import "./CurrentEvents.css"
 const CurrentEvent = () => {
@@ -98,7 +98,7 @@ const CurrentEvent = () => {
               <a href="https://forms.gle/WySr5Bqj67hmMPRE7" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
-                    <img src={TBI} alt="" />
+                    <img src={tbi} alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>Documentary Making </h4>
