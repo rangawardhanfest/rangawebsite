@@ -106,7 +106,36 @@ const CurrentEvent = () => {
                   </div>
                 </div>
                 </a>
+              </div> 
+
+ <div className="allevent_card style1">
+              <a href="https://forms.gle/4CWXMPW4q3t52tZr8" target="_blank" rel="noreferrer">
+                <div className="event_info">
+                  <div className="event_info_img1">
+                    <img src={saaj} alt="" />
+                  </div>
+                  <div className="event_info_name">
+                    <h4 style={{ fontFamily: "Gotu" }}>साज संस्कृतीचा </h4>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>only for VJTIans </p>
+                  </div>
+                </div>
+                </a>
               </div>   
+
+              <div className="allevent_card style1">
+              <a href="https://forms.gle/NNuz7CVmJ1BP7MXK9" target="_blank" rel="noreferrer">
+                <div className="event_info">
+                  <div className="event_info_img1">
+                    <img src={vraktutva} alt="" />
+                  </div>
+                  <div className="event_info_name">
+                    <h4 style={{ fontFamily: "Gotu" }}>वक्तृत्व स्पर्धा </h4>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>intercollege </p>
+                  </div>
+                </div>
+                </a>
+              </div>   
+
             </div>   
           </section>
         </section>
