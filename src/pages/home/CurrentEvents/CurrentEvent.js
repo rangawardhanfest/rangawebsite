@@ -36,7 +36,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>कवडसा</h4>
-                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege Competition</p>
                   </div>
                 </div>
                 </a>
@@ -49,7 +49,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>पथनाट्य</h4>
-                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege Competition</p>
                   </div>
                 </div>
                 </a>
@@ -62,7 +62,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>एकपात्री </h4>
-                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege Competition</p>
                   </div>
                 </div>
                 </a>
@@ -76,7 +76,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>सुर निरागस हो </h4>
-                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>only for VJTIans </p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Only for VJTIans </p>
                   </div>
                 </div>
                 </a>
@@ -90,7 +90,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>नृत्याविष्कार </h4>
-                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>only for VJTIans </p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Only for VJTIans </p>
                   </div>
                 </div>
                 </a>
@@ -104,7 +104,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>Documentary Making </h4>
-                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>only for VJTIans </p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Only for VJTIans </p>
                   </div>
                 </div>
                 </a>
@@ -118,7 +118,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>साज संस्कृतीचा </h4>
-                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>only for VJTIans </p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Only for VJTIans </p>
                   </div>
                 </div>
                 </a>
@@ -132,7 +132,7 @@ const CurrentEvent = () => {
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>वक्तृत्व स्पर्धा </h4>
-                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>intercollege </p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege Competition </p>
                   </div>
                 </div>
                 </a>
@@ -148,7 +148,7 @@ const CurrentEvent = () => {
             <h3 className=" past" style={{ paddingTop: "2vw" }}>
             युवा साहित्य संमेलन
             </h3>
-            <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege competition</p>
+            <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege Competition</p>
           </div>
         </div>
         <section id="all_events1" style={{backgroundColor: 'black'}}>
