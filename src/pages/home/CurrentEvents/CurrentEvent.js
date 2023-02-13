@@ -11,6 +11,8 @@ import chitrapath from "./Chitrapat.png"
 import singing1 from "./singing1.png"
 import tbidocument from "./in assosication with VJTI TBI.png"
 import dance from "./dance.png"
+import saaj from './saaj.jpeg'
+import vraktutva from './vraktutva.jpeg'
 import "./CurrentEvents.css"
 const CurrentEvent = () => {
   return (
