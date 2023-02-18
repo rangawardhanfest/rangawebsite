@@ -118,7 +118,6 @@
     max-width: 40%;
     margin-left: 30%;
 }
-
 #google_translate_element {
     width: 30px !important;
     height: 30px !important;
@@ -150,13 +149,6 @@ div#google_translate_element
     span:hover {
     color: yellow;
 }
-/* 
-.vaibhav-fix {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-} */
-
 .profile-image {
     z-index: 5;
     width: 35px;
