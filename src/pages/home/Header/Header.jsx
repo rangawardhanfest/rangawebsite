@@ -2,18 +2,12 @@ import { React, useEffect, useState } from "react";
 import axios from "axios";
 import "./Header.css";
 import MyVideo from "./smoke.mp4";
-import { AiOutlineClose } from "react-icons/ai";
 import { app } from "../../../firebase-config.js";
 import { getFirestore } from "firebase/firestore";
 import {
     collection,
     getDocs,
     addDoc,
-    updateDoc,
-    deleteDoc,
-    doc,
-    query,
-    where,
 } from "firebase/firestore";
 
 const Header = () => {
