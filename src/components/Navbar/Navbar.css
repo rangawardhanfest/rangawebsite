@@ -130,7 +130,7 @@ div#google_translate_element div.goog-te-gadget-simple {
 div#google_translate_element div.goog-te-gadget-simple {
     background-color: black;
     height: 22px;
-    display: hidden;
+    display: none;
     width: 22px;
     cursor: pointer;
 }
@@ -140,7 +140,7 @@ div#google_translate_element
     a.goog-te-menu-value
     span {
     color: white;
-    display: hidden !important;
+    display: none !important;
 }
 
 div#google_translate_element
