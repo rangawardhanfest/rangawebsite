@@ -9,6 +9,7 @@ import {
   FaLinkedin,
 } from "react-icons/fa";
 
+
 const Logo = styled.a`
   display: flex;
   align-items: center;
@@ -30,7 +31,7 @@ const Footer = () => {
               {/* <img src={logo} alt="Rangawardhan" /> */}
               <h1 className="text-upper header-title animate-charcter ">रंगवर्धन</h1>
             </Logo>{" "}
-            <p style={{fontSize:'15px',lineHeight:'25px'}}>रंगवर्धन: मराठी सांस्कृतिक रंगमंच, व्हीजेटीआय, मुंबई ! मराठी कलावंतांना, गौरवास्पद काम करणाऱ्या अद्वितीय व्यक्तिमत्त्वांना तसेच अभियंत्यांच्या कलागुणांना वाव देणारं आणि राजभाषेचा आवाज टिकवणारं एक मुक्त व्यासपीठ !</p>
+            <p>रंगवर्धन: मराठी सांस्कृतिक रंगमंच, व्हीजेटीआय, मुंबई ! मराठी कलावंतांना, गौरवास्पद काम करणाऱ्या अद्वितीय व्यक्तिमत्त्वांना तसेच अभियंत्यांच्या कलागुणांना वाव देणारं आणि राजभाषेचा आवाज टिकवणारं एक मुक्त व्यासपीठ !</p>
           </div>
           <div className="col">
             <h3>
@@ -101,13 +102,13 @@ const Footer = () => {
                 </div>
               </a>
             </div>
-           <a href="https://play.google.com/store/apps/details?id=com.sanket.rangawardhanvjti" target = "blank" >
+            <a href="https://play.google.com/store/apps/details?id=com.sanket.rangawardhanvjti" target = "blank" >
               <img src="https://b.zmtcdn.com/data/webuikit/23e930757c3df49840c482a8638bf5c31556001144.png" style={{maxHeight:"5%",maxWidth:"10vw",margin:"5%"}} />
-              </a>  
+              </a>    
           </div>
         </div>
         <hr />
-        <p className="copyright">Rangawardhan, Copyright &#169; 2023</p>
+        <p className="copyright">Rangawardhan, Copyright &#169; 2022</p>
       </footer>
     </div>
   );
