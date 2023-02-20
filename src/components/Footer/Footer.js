@@ -101,6 +101,9 @@ const Footer = () => {
                 </div>
               </a>
             </div>
+           <a href="https://play.google.com/store/apps/details?id=com.sanket.rangawardhanvjti" target = "blank" >
+              <img src="https://b.zmtcdn.com/data/webuikit/23e930757c3df49840c482a8638bf5c31556001144.png" style={{maxHeight:"5%",maxWidth:"10vw",margin:"5%"}} />
+              </a>  
           </div>
         </div>
         <hr />
