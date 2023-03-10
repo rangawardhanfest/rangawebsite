@@ -24,7 +24,7 @@ const Header = () => {
             <span className="past">३</span>
            
             <div className="animate-charcter">19th,20th,21st</div>
-            <div className="animate-charcter">March 2023</div>
+            <div className="animate-charcter">FEB 2023</div>
         </h1> 
     </section>
     </>
