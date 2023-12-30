@@ -70,6 +70,27 @@ import girlsd from './img/girlsd.jpg';
 import grpd from './img/grpd.jpg';
 import dindi from './img/dindi.jpg';
 import vasu from './img/vasu.jpg';
+import a1 from './img/a1.jpg';
+import a2 from './img/a2.jpg';
+import a3 from './img/a3.jpg';
+import a4 from './img/a4.jpg';
+import a5 from './img/a5.jpg';
+import a6 from './img/a6.jpg';
+import a7 from './img/a7.jpg';
+import a8 from './img/a8.jpg';
+import a9 from './img/a9.jpg';
+import a10 from './img/a10.jpg';
+import a11 from './img/a11.jpg';
+import x1 from './img/x1.jpg';
+import x3 from './img/x3.jpg';
+import x4 from './img/x4.jpg';
+import x5 from './img/x5.jpg';
+import x6 from './img/x6.jpg';
+import x7 from './img/x7.jpg';
+import x8 from './img/x8.jpg';
+import x9 from './img/x9.jpg';
+import c1 from './img/c1.jpg';
+import c2 from './img/c2.jpg';
 
 
 
@@ -107,7 +128,69 @@ const getImg=(imgSrc)=>{
    
     <div className="gallery" >
         {/* {data.map((item,index)=>{ */}
-
+               <div className="pics"  onClick={()=>getImg(a2)}>
+                     <img src={a1} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(a2)}>
+                     <img src={a2} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(a3)}>
+                     <img src={a3} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(a4)}>
+                     <img src={a4} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(a5)}>
+                     <img src={a5} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(a6)}>
+                     <img src={a6} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(a7)}>
+                     <img src={a7} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(a8)}>
+                     <img src={a8} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(a9)}>
+                     <img src={a9} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(a10)}>
+                     <img src={a10} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(a11)}>
+                     <img src={a11} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(x1)}>
+                     <img src={x1} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(x3)}>
+                     <img src={x3} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(x4)}>
+                     <img src={x4} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(x5)}>
+                     <img src={x5} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(x6)}>
+                     <img src={x6} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(x7)}>
+                     <img src={x7} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(x8)}>
+                     <img src={x8} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(x9)}>
+                     <img src={x9} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(c1)}>
+                     <img src={c1} style={{width: '100%'}} alt=''/>
+                </div>
+               <div className="pics"  onClick={()=>getImg(c2)}>
+                     <img src={c2} style={{width: '100%'}} alt=''/>
+                </div>
                <div className="pics"  onClick={()=>getImg(canteen)}>
                      <img src={canteen} style={{width: '100%'}} alt=''/>
                 </div>

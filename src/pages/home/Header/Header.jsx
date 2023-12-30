@@ -23,8 +23,8 @@ const Header = () => {
             <span className="past">२</span>
             <span className="past">४</span>
            
-            <div className="animate-charcter" style = {{marginTop: "2%"}}>भव्य  शुभारंभ सोहळा  </div>
-            <div className="animate-charcter">११ सप्टेंबर</div>
+            <div className="animate-charcter" style = {{marginTop: "2%"}}>७, ८, ९ जानेवारी २०२४ </div>
+            {/* <div className="animate-charcter">११ सप्टेंबर</div> */}
         </h1> 
     </section>
     </>

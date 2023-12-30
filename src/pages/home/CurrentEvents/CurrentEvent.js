@@ -9,10 +9,13 @@ import prasang from "./prasang.png"
 import kavya from "./Kavya lekhan.png"
 import chitrapath from "./Chitrapat.png"
 import singing1 from "./singing1.png"
-import tbidocument from "./in assosication with VJTI TBI.png"
+import tbidocument from "./in association with VJTI TBI.png"
 import dance from "./dance.png"
-import saaj from './saaj.jpeg'
-import vraktutva from './vraktutva.jpeg'
+import saaj from './saaj.png'
+import vraktutva from './vraktutva.jpg'
+import mavala from './mavala.png'
+import reelstar from './reelstar.png'
+import hastakshar from './hastakshar.png'
 import "./CurrentEvents.css"
 const CurrentEvent = () => {
   return (
@@ -29,7 +32,7 @@ const CurrentEvent = () => {
           <section className="allevents" style={{backgroundColor: 'black'}}>
             <div className="events" style={{backgroundColor: 'black'}}>
               <div className="allevent_card style1">
-                <a href="https://forms.gle/cfvfYs36wf4EnaqGA" target="_blank" rel="noreferrer">
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgENsZyro4-R-ZNxkcmxt7-zRMMgnuuOJ2pUBkyEPXuc_RIg/viewform" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={kawadasa} alt="" />
@@ -42,7 +45,7 @@ const CurrentEvent = () => {
                 </a>
               </div>
               <div className="allevent_card style1">
-              <a href="https://forms.gle/mQENRwaSDACs6gpJ8" target="_blank" rel="noreferrer">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLScAvULbeTY74ceo_E9rUgvr4-CD5r3x4ODTfyOxMkZlaL-mBg/viewform" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={path} alt="" />
@@ -55,7 +58,7 @@ const CurrentEvent = () => {
                 </a>
               </div>
               <div className="allevent_card style1">
-              <a href="https://forms.gle/Fb4huGeFYmQniUMf9" target="_blank" rel="noreferrer">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqFxT1sS7xPavSrci5TM-IUg33pXVZ6OPfbBLecyLcHIFkHQ/viewform" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={akpatri} alt="" />
@@ -69,7 +72,7 @@ const CurrentEvent = () => {
               </div>   
 
               <div className="allevent_card style1">
-              <a href="https://forms.gle/V4aUiWGvV9CabJry8" target="_blank" rel="noreferrer">
+              <a href="https://forms.gle/HTuH44bBm1UJdtLH6" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={singing1} alt="" />
@@ -83,7 +86,7 @@ const CurrentEvent = () => {
               </div>   
 
               <div className="allevent_card style1">
-              <a href=" https://forms.gle/sBaKy9UaWHm9By5u5" target="_blank" rel="noreferrer">
+              <a href=" https://forms.gle/tRxYYUVPXi4JGSqt7" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={dance} alt="" />
@@ -97,21 +100,21 @@ const CurrentEvent = () => {
               </div>   
 
               <div className="allevent_card style1">
-              <a href="https://forms.gle/WySr5Bqj67hmMPRE7" target="_blank" rel="noreferrer">
+              <a href="https://forms.gle/UJE9GfGcnQxrvgSP9" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={tbidocument} alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>Documentary Making </h4>
-                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Only for VJTIans </p>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Intercollege Competition </p>
                   </div>
                 </div>
                 </a>
               </div> 
 
  <div className="allevent_card style1">
-              <a href="https://forms.gle/4CWXMPW4q3t52tZr8" target="_blank" rel="noreferrer">
+              <a href="https://forms.gle/M9hNJYnZvZqcijNK7" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={saaj} alt="" />
@@ -125,7 +128,7 @@ const CurrentEvent = () => {
               </div>   
 
               <div className="allevent_card style1">
-              <a href="https://forms.gle/NNuz7CVmJ1BP7MXK9" target="_blank" rel="noreferrer">
+              <a href="https://forms.gle/UqLxPyHc4jmsETpAA" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={vraktutva} alt="" />
@@ -137,6 +140,45 @@ const CurrentEvent = () => {
                 </div>
                 </a>
               </div>   
+              <div className="allevent_card style1">
+              <a href="https://forms.gle/aKx3KFPHcytv6WLGA" target="_blank" rel="noreferrer">
+                <div className="event_info">
+                  <div className="event_info_img1">
+                    <img src={mavala} alt="" />
+                  </div>
+                  <div className="event_info_name">
+                    <h4 style={{ fontFamily: "Gotu" }}>रणांगण </h4>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Interbranch Competition </p>
+                  </div>
+                </div>
+                </a>
+              </div>   
+              <div className="allevent_card style1">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc1rEuy3S1KGh6OVTSryqOWe1Lm_JIss2C3Gf8Pu5AxoON0ug/viewform" target="_blank" rel="noreferrer">
+                <div className="event_info">
+                  <div className="event_info_img1">
+                    <img src={kavya} alt="" />
+                  </div>
+                  <div className="event_info_name">
+                    <h4 style={{ fontFamily: "Gotu" }}>काव्यवाचन स्पर्धा </h4>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Only for VJTIans </p>
+                  </div>
+                </div>
+                </a>
+              </div>
+              <div className="allevent_card style1">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQzaWpOFZOiKe3Ra7gweYfAb1WlnLDUATwZEDv7G2cYESMFA/viewform" target="_blank" rel="noreferrer">
+                <div className="event_info">
+                  <div className="event_info_img1">
+                    <img src={reelstar} alt="" />
+                  </div>
+                  <div className="event_info_name">
+                    <h4 style={{ fontFamily: "Gotu" }}>Reel Making Competition </h4>
+                    <p className="section-title" style={{ fontFamily: "Gotu",color:"white"}}>Only for VJTIans </p>
+                  </div>
+                </div>
+                </a>
+              </div>
 
             </div>   
           </section>
@@ -155,7 +197,7 @@ const CurrentEvent = () => {
           <section className="allevents" style={{backgroundColor: 'black'}}>
             <div className="events" style={{backgroundColor: 'black'}}>
               <div className="allevent_card style1">
-              <a href="https://forms.gle/T5KBSQWZdjXG3h1D6" target="_blank" rel="noreferrer">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOUolQoaJ6T5SnRJfVJ7YXi1uatzZXVPw5KymyjpEUujwAQA/viewform?usp=sf_link" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={kathalekhan} alt="" />
@@ -167,7 +209,7 @@ const CurrentEvent = () => {
                 </a>
               </div>
               <div className="allevent_card style1">
-              <a href="https://forms.gle/1ctKyZe2cWCewNhM6" target="_blank" rel="noreferrer">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdZcoxM4RurGuazJq-IrSMQiaFrER9kuqF3jyRbwcpwq_yDPw/viewform?usp=sf_link" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={patralekhan} alt="" />
@@ -179,7 +221,7 @@ const CurrentEvent = () => {
                 </a>
               </div>
               <div className="allevent_card style1">
-              <a href="https://forms.gle/NN1P6WESATe79LF27" target="_blank" rel="noreferrer">
+              <a href="https://forms.gle/t3NAP2sMVPhzzJ4P7" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={vyangchitra} alt="" />
@@ -191,7 +233,7 @@ const CurrentEvent = () => {
                 </a>
               </div>
               <div className="allevent_card style1">
-              <a href="https://forms.gle/cG9UB97cxv2kpzg26" target="_blank" rel="noreferrer">
+              <a href="https://forms.gle/3ci1hWGfCWGHjcB27" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={prasang} alt="" />
@@ -202,26 +244,27 @@ const CurrentEvent = () => {
                 </div>
                 </a>
               </div>
+              
               <div className="allevent_card style1">
-              <a href="https://forms.gle/hZef8ZC1WMpL3T3dA" target="_blank" rel="noreferrer">
-                <div className="event_info">
-                  <div className="event_info_img1">
-                    <img src={kavya} alt="" />
-                  </div>
-                  <div className="event_info_name">
-                    <h4 style={{ fontFamily: "Gotu" }}>काव्यलेखन स्पर्धा  </h4>
-                  </div>
-                </div>
-                </a>
-              </div>
-              <div className="allevent_card style1">
-              <a href="https://forms.gle/QJC6Ggwi3h7PdANXA" target="_blank" rel="noreferrer">
+              <a href="https://forms.gle/NswRTE1qtEN8GxgJ7" target="_blank" rel="noreferrer">
                 <div className="event_info">
                   <div className="event_info_img1">
                     <img src={chitrapath} alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4 style={{ fontFamily: "Gotu" }}>चित्रपट समीक्षण स्पर्धा </h4>
+                  </div>
+                </div>
+                </a>
+              </div>
+              <div className="allevent_card style1">
+              <a href="https://forms.gle/NDRRnNQHn5TP5YQa9" target="_blank" rel="noreferrer">
+                <div className="event_info">
+                  <div className="event_info_img1">
+                    <img src={hastakshar} alt="" />
+                  </div>
+                  <div className="event_info_name">
+                    <h4 style={{ fontFamily: "Gotu" }}>हस्ताक्षर स्पर्धा </h4>
                   </div>
                 </div>
                 </a>

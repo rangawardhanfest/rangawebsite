@@ -7,20 +7,13 @@ const Prices = () => {
   const [state] = React.useState([
     {
       id: 1,
-      heading: "प्रतिक देवकते",
-      img:`${images.pratik}`,
-      desc: 'VJTI Drama Committee Head',
-      contact:'https://wa.me/9405111418'
-    },
-    {
-      id: 2,
       heading: "आयुष देशपांडे",
       img: `${images.aayush}`,
       desc: 'Drama CO-Ordinator',
       contact:'https://wa.me/9405111418'
     },
     {
-      id: 3,
+      id: 2,
       heading: "अमित कापसे",
       img:`${images.amit}`,
       desc: 'Drama CO-Ordinator',
@@ -36,8 +29,8 @@ const Prices = () => {
         </div>
         <div className="row">
           {state.map((prices) => (
-            <div className="col-4" key={prices.id} data-aos="zoom-in-left" data-aos-duration="2000" >
-              <div className="price">
+            <div className="col-4" key={prices.id} data-aos="zoom-in-left" data-aos-duration="2000" style={{margin:"100px"}}>
+              <div className="price" >
                 <div className="priceHeading">{prices.heading}</div>
                 <img src = {prices.img} alt="natya images" data-aos="zoom-in-up" data-aos-duration="3000"  style={{ border: "2px solid rgb(255, 174, 66",margin:"5%"}}></img>
                 <div style={{fontWeight:"4vh"}}>{prices.desc}</div>

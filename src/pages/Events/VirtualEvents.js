@@ -17,6 +17,232 @@ const VirtualEvents = () => {
           }}
         >
           <h1 class="heading">
+            <span className="past">&ensp;रंगवर्धन २०२२-२३ आणि २०२३-२४&ensp;</span>
+          </h1>
+        </div>
+        <div
+          class="minor_events"
+          style={{
+            backgroundImage: "linear-gradient(270deg, #28b8d5 0%,#020344 100%)",
+          }}
+        >
+          <h1 class="heading" className="past">
+          तू चाल पुढं
+          </h1>
+        </div>
+        <section
+          id="online"
+          style={{
+            backgroundImage: "linear-gradient(270deg, #28b8d5 0%,#020344 100%)",
+          }}
+        >
+          <section class="day1">
+            <div class="allevents">
+              <div class="event_card">
+                <div class="event_info">
+                  {/* <a
+                    href="https://youtube.com/c/Rangawardhan"
+                    target="blank"
+                    style={{ textDecoration: "none" }}
+                  > */}
+                    <div class="event_info_img">
+                      <img src={img.raj_tha} alt="" />
+                      {/* <div
+                        class="overlay fa fa-youtube-play red-color"
+                        aria-hidden="true"
+                      >
+                        <p>Youtube</p>
+                      </div> */}
+                    </div>
+                    <div class="event_info_name">
+                      <h4>मा. श्री राजसाहेब ठाकरे</h4>
+                      <h5>प्रेरक वक्ते</h5>
+                    </div>
+                  {/* </a> */}
+                </div>
+              </div>
+              <div class="event_card">
+                <div class="event_info">
+                  {/* <a
+                    href="https://youtu.be/RaeCaDcVGbA
+                    "
+                    target="blank"
+                    style={{ textDecoration: "none" }}
+                  > */}
+                    <div class="event_info_img">
+                      <img src={img.mahesh} alt="" />
+                      {/* <div
+                        class="overlay fa fa-youtube-play red-color"
+                        aria-hidden="true"
+                      >
+                        {" "}
+                        Youtube
+                      </div> */}
+                    </div>
+                    <div class="event_info_name">
+                      <h4>महेश मांजरेकर</h4>
+                      <h5>दिग्दर्शक, निर्माते आणि अभिनेते</h5>
+                    </div>
+                  {/* </a> */}
+                </div>
+              </div>
+              <div class="event_card">
+                <div class="event_info">
+                  {/* <a
+                    href="https://youtu.be/GNFsZfSecBg"
+                    target="blank"
+                    style={{ textDecoration: "none" }}
+                  > */}
+                    <div class="event_info_img">
+                      <img src={img.sayaji} alt="" />
+                      {/* <div
+                        class="overlay fa fa-youtube-play red-color"
+                        aria-hidden="true"
+                      >
+                        {" "}
+                        Youtube
+                      </div> */}
+                    </div>
+                    <div class="event_info_name">
+                      <h4>सयाजी शिंदे</h4>
+                      <h5>अभिनेते</h5>
+                    </div>
+                  {/* </a> */}
+                </div>
+              </div>
+              <div class="event_card">
+                <div class="event_info">
+                  {/* <a
+                    href="https://youtu.be/rw4QcDk4lOw"
+                    target="blank"
+                    style={{ textDecoration: "none" }}
+                  > */}
+                    <div class="event_info_img">
+                      <img src={img.medha} alt="" />
+                      {/* <div
+                        class="overlay fa fa-youtube-play red-color"
+                        aria-hidden="true"
+                      >
+                        {" "}
+                        Youtube
+                      </div> */}
+                    </div>
+                    <div class="event_info_name">
+                      <h4>मेधा पाटकर</h4>
+                      <h5>सामाजिक कार्यकर्त्या</h5>
+                    </div>
+                  {/* </a> */}
+                </div>
+              </div>
+              <div class="event_card">
+                <div class="event_info">
+                  {/* <a
+                    href="https://youtu.be/lOW3Q9x13kY"
+                    target="blank"
+                    style={{ textDecoration: "none" }}
+                  > */}
+                    <div class="event_info_img">
+                      <img src={img.hruta} alt="" />
+                      {/* <div
+                        class="overlay fa fa-youtube-play red-color"
+                        aria-hidden="true"
+                      >
+                        {" "}
+                        Youtube
+                      </div> */}
+                    </div>
+                    <div class="event_info_name">
+                      <h4>ऋता दुर्गुळे</h4>
+                      <h5>अभिनेत्री</h5>
+                    </div>
+                  {/* </a> */}
+                </div>
+              </div>
+              <div class="event_card">
+                <div class="event_info">
+                  {/* <a
+                    href="https://youtube.com/c/Rangawardhan"
+                    target="blank"
+                    style={{ textDecoration: "none" }}
+                  > */}
+                    <div class="event_info_img">
+                      <img src={img.Anant} alt="" />
+                      {/* <div
+                        class="overlay fa fa-youtube-play red-color"
+                        aria-hidden="true"
+                      >
+                        {" "}
+                        Youtube
+                      </div> */}
+                    </div>
+                    <div class="event_info_name">
+                      <h4>अनंत जोग</h4>
+                      <h5>अभिनेते</h5>
+                    </div>
+                  {/* </a> */}
+                </div>
+              </div>
+              <div class="event_card">
+                <div class="event_info">
+                  {/* <a
+                    href="https://youtu.be/n2B1Uq0KEtM"
+                    target="blank"
+                    style={{ textDecoration: "none" }}
+                  > */}
+                    <div class="event_info_img">
+                      <img src={img.savani} alt="" />
+                      {/* <div
+                        class="overlay fa fa-youtube-play red-color"
+                        aria-hidden="true"
+                      >
+                        {" "}
+                        Youtube
+                      </div> */}
+                    </div>
+                    <div class="event_info_name">
+                      <h4>सावनी रविंद्र</h4>
+                      <h5>गायिका</h5>
+                    </div>
+                  {/* </a> */}
+                </div>
+              </div>
+              <div class="event_card">
+                <div class="event_info">
+                  {/* <a
+                    href="https://youtube.com/c/Rangawardhan"
+                    target="blank"
+                    style={{ textDecoration: "none" }}
+                  > */}
+                    <div class="event_info_img">
+                      <img src={img.Jaywant} alt="" />
+                      {/* <div
+                        class="overlay fa fa-youtube-play red-color"
+                        aria-hidden="true"
+                      >
+                        {" "}
+                        Youtube
+                      </div> */}
+                    </div>
+                    <div class="event_info_name">
+                      <h4>जयवंत वाडकर</h4>
+                      <h5>अभिनेते</h5>
+                    </div>
+                  {/* </a> */}
+                </div>
+              </div>
+              
+            </div>
+          </section>
+        </section>
+      </section>
+      <section>
+        <div
+          class="minor_events"
+          style={{
+            backgroundImage: "linear-gradient(270deg, #28b8d5 0%,#020344 100%)",
+          }}
+        >
+          <h1 class="heading">
             <span className="past">&ensp;रंगवर्धन २०२१-२२&ensp;</span>
           </h1>
         </div>
