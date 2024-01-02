@@ -9,6 +9,7 @@ import Aditi from '../../../images/Aditi.jpg';
 import Alok from '../../../images/Alok.jpg';
 import AMOL from '../../../images/AMOL.jpg';
 import Ayush from '../../../images/Ayush.jpg';
+import Dhanashree from '../../../images/Dhanashree.jpg';
 import Shraddha from '../../../images/Shraddha.jpg';
 import jagruti from '../../../images/jagruti.jpg'
 import DhanashriM from '../../../images/DhanashriM.jpg'
@@ -41,6 +42,7 @@ const e={
     Alok,
     AMOL,
     Ayush,
+    Dhanashree,
     Shubham
     ,jagruti,
     Sarthak,
