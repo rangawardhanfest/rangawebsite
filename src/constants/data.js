@@ -88,44 +88,36 @@ const sponsor =[
 ]
 const teams = [
     {
-        img: `${images.dushant}`,
-        name:"Dushant Harinkhede",
+        img: `${images.Mahesh}`,
+        name:"Mahesh Thakre",
         Post:'Chief Officer',
-        l:'https://www.linkedin.com/in/dushant-harinkhede-296200210/',
-        i:'https://www.instagram.com/dushant_harinkhede_2001/',
-        m:'mailto: dtharinkhede_b20@ce.vjti.ac.in'
+        l:'https://www.linkedin.com/in/mahesh-thakare-574386226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+        i:'https://www.instagram.com/maheshthakare__2003?igsh=MWpwNDVrOHZuYmc2Zw==',
+        m:'mailto: mvthakare_b21@ce.vjti.ac.in'
     },
     {
-        img: `${images.pratiksha}`,
-        name:"Pratiksha Sankhe",
+        img: `${images.Ashok}`,
+        name:"Ashok Shekade",
         Post:'Chief Officer',
-        l:'https://www.linkedin.com/in/pratiksha-sankhe/',
-        i:'https://www.instagram.com/pratikshasankhe_28/',
-        m:'mailto: pssankhe_b20@ce.vjti.ac.in'
+        l:'https://www.linkedin.com/in/ashok-shekade-12ba67243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+        i:'https://www.instagram.com/ashok_shekade_2003?igsh=MWx2bDkwdzh5bTB5aQ==',
+        m:'mailto: apshekade_b21@ce.vjti.ac.in'
     },
     {
-        img: `${images.apurv}`,
-        name:"Apurv Sonawane",
+        img: `${images.Arnav}`,
+        name:"Arnav Chavan",
         Post:'Technical Head',
-        l:'https://www.linkedin.com/in/apurvsonawane/',
-        i:'https://www.instagram.com/apurvstic/',
-        m:'mailto: arsonawane_b20@el.vjti.ac.in'
+        l:'https://www.linkedin.com/in/arnav-chavan-855497234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+        i:'https://www.instagram.com/a.r.n.a.v_a.3.8.0?igsh=aWM2eGRueXYyZWZh',
+        // m:'mailto: arsonawane_b20@el.vjti.ac.in'
     },
     {
-        img: `${images.bhavika}`,
-        name:"Bhavika Purav",
+        img: `${images.Yash}`,
+        name:"Yash Singh",
         Post:'Technical Head',
-        l:'https://www.linkedin.com/in/bhavika-purav-b9b804240',
-        i:'https://www.instagram.com/bhavikapurav/',
-        m:'mailto: bmpurav_b21@ce.vjti.ac.in'
-    },
-    {
-        img: `${images.amey}`,
-        name:"Amey Pashte",
-        Post:'Technical Head',
-        l:'aapashte_b21@it.vjti.ac.in',
-        i:'https://www.instagram.com/ll._.ameyyy._.ll/',
-        m:'mailto: https://www.linkedin.com/in/amey-pashte-b85354191'
+        l:'https://www.linkedin.com/in/yash-singh-b71271222/',
+        // i:'https://www.instagram.com/bhavikapurav/',
+        // m:'mailto: bmpurav_b21@ce.vjti.ac.in'
     }
 ]
 

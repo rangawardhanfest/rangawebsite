@@ -57,6 +57,17 @@ import nrityavishkar from "../../images/nritya.JPG"
 import sing from "../../images/sing.JPG"
 import bakshis from "../../images/bakshis.JPG"
 import sparshband from "../../images/djbest.jpg"
+import raj_tha from "../../images/raj.jpg"
+import mahesh from "../../images/Mahesh.jpeg"
+import hruta from "../../images/hruta.jpg"
+import sayaji from "../../images/sayaji.jpg"
+import medha from "../../images/medha.jpg"
+import Jaywant from "../../images/Jaywant.jpeg"
+import savani from "../../images/savani.jpeg"
+import Anant from "../../images/anant.jpg"
+
+
+
 const export1={
   shubharambh,
   standup,
@@ -111,6 +122,14 @@ const export1={
   nrityavishkar,
   sing,
   bakshis,
-  sparshband
+  sparshband,
+  raj_tha,
+  Anant,
+  mahesh,
+  Jaywant,
+  hruta,
+  medha,
+  savani,
+  sayaji
 };
 export default export1;

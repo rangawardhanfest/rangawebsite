@@ -18,6 +18,7 @@ import CoreCommittee from './pages/Team/CoreCommittee/CoreCommittee'
 import Gallery from './pages/Gallery/gallery';
 import './js/script';
 import Natya from './pages/Natyavardhan/Natyavardhan';
+import Social from './pages/SocialEvents/Social';
 
 AOS.init();
 function App() {
@@ -39,6 +40,7 @@ function App() {
           <Route path='/contact' element ={<ContactUs /> } />
           <Route path ='/gallery' element ={<Gallery />  } />
           <Route path ='/natyavardhan' element ={<Natya />} />
+          <Route path ='/SocialEvents' element ={<Social />} />
           </Routes>
         </div>
       </Router>
