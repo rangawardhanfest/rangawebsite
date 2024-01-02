@@ -108,7 +108,7 @@ const Footer = () => {
           </div>
         </div>
         <hr />
-        <p className="copyright">Rangawardhan, Copyright &#169; 2023</p>
+        <p className="copyright">Rangawardhan, Copyright &#169; 2024</p>
       </footer>
     </div>
   );

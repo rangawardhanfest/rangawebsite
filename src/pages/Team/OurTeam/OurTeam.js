@@ -5,6 +5,7 @@ import { FaEnvelope, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 import {Link } from "react-router-dom";
 import Webteam from "../../home/WebTeam/Webteam";
+import PastWebTeam from "../../home/WebTeam/PastWebTeam";
 
 
 const Ourteam = () => {
@@ -98,6 +99,7 @@ const Ourteam = () => {
         </div>
       </div>
                   <Webteam />
+                  <PastWebTeam />
       </div>
   );
 };

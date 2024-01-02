@@ -166,6 +166,22 @@ const sectorHeads = [
     i: "https://instagram.com/atul_khare13?igshid=OGQ5ZDc2ODk2ZA==",
     m: "mailto: aakhare_b21@pe.vjti.ac.In",
   },
+  {
+    img: `${images.Ayush}`,
+    name: "Ayush Milind Gurav ",
+    Post: " Chief Outreach Officer",
+    l: "https://www.linkedin.com/in/ayush-gurav",
+    i: "https://instagram.com/_ayush_gurav_",
+    m: "mailto: ayushgurav6@gmail.com",
+  },
+  {
+    img: `${images.Dhanashree}`,
+    name: "Dhanashree Bhavsar ",
+    Post: " Chief Outreach Officer",
+    // l: "https://www.linkedin.com/hp/",
+    i: "https://instagram.com/silent_knight14.9.02?igshid=YTQwZjQ0NmI0OA==",
+    m: "mailto: Dhanashree.bhavsar14902@gmail.com",
+  },
 ];
 
 const WebDev = [
