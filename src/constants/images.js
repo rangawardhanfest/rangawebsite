@@ -13,7 +13,7 @@ import TIB from '../images/TIB.jpg';
 import VJTI from "../images/VJTI.png";
 
 import rangablack from "../images/rang22-23_Black.png"
-import ranga_bg from "../images/Ranga_bg.jpeg"
+//import ranga_bg from "../images/Ranga_bg.jpeg"
 import djbest from "../images/djbest.jpg"
 import rangawhite from "../images/rang22-23_White.png"
 import ranga from "../images/Ranga.png"
@@ -39,7 +39,7 @@ const exported = {
     IMS22,
 
     rangablack,
-    ranga_bg,
+    ranga_bg: "https://res.cloudinary.com/dcir5216l/image/upload/v1726869593/Ranga_bg_nxgplq.jpg",
     djbest,
     rangawhite,
     lic

@@ -70,7 +70,7 @@ const teams = [{
 const sectorHeads = [
     // Chief Execution Officer
     {
-        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726863658/vedantwadu_v6pfbq.heic",
+        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726869338/Vedant_Wadu_Execution_Chief_Officer_lfxr5e.jpg",
         name: "Vedant Wadu",
         Post: "Chief Execution Officer",
         l: "https://www.linkedin.com/in/adarsh-karande-547b0b20a",
@@ -78,7 +78,7 @@ const sectorHeads = [
         m: "mailto: dgmalewar_b21@ci.vjti.ac.in",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293816/Shruti_Jawale_Execution_Chief_Officer_zwzuff.heic",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726869341/Shruti_Jawale_Execution_Chief_Officer_wbaf5d.jpg",
         name: "Shruti Jawale",
         Post: "Chief Execution Officer",
         l: "https://www.linkedin.com/in/adarsh-karande-547b0b20a",
@@ -237,7 +237,7 @@ const WebDev = [{
         Post: 'Chief Technical Officer'
     },
     {
-        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726293945/Ayush_M_uqccng.heic",
+        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726869346/Ayush_M_ffvbuo.jpg",
         name: "Ayush Mhetre",
         Post: 'Technical Head'
     },

@@ -1,13 +1,13 @@
 import { React } from "react";
 import "./Header.css";
-import MyVideo from "./smoke.mp4"
+
 
 const Header = () => {
   return (
     <>
        <section className="animationforheader">
        <video className="videoheader" autoPlay muted >
- <source src={MyVideo} type="video/mp4" />
+ <source src="https://res.cloudinary.com/dcir5216l/video/upload/v1726869991/smoke_hiuxgr.mp4" type="video/mp4" />
 </video>
        <h1 className="parts">
            <span className="past">रं</span>

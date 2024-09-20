@@ -101,7 +101,7 @@ const teams = [{
         m: 'mailto: apshekade_b21@ce.vjti.ac.in'
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293945/Ayush_M_uqccng.heic",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726869346/Ayush_M_ffvbuo.jpg",
         name: "Ayush Mhetre",
         Post: 'Technical Head',
         l: 'https://www.linkedin.com/in/arnav-chavan-855497234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
