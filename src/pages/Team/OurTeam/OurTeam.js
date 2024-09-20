@@ -7,7 +7,6 @@ import {Link } from "react-router-dom";
 import Webteam from "../../home/WebTeam/Webteam";
 import PastWebTeam from "../../home/WebTeam/PastWebTeam";
 
-
 const Ourteam = () => {
   return (
     <div style={{backgroundImage:'linear-gradient(270deg, #28b8d5 0%,#020344 100%)'}}>

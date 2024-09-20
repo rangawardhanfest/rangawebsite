@@ -11,7 +11,7 @@ import solu22 from '../../images/Solu22.jpg';
 import swad22 from '../../images/swad22.jpg';
 import TIB from '../../images/TIB.jpg';
 import VJTI from "../../images/VJTI.png";
-import dushant from "../../images/Dushant_Technical cheif officer.jpg"
+
 import pratiksha from "../../images/Pratiksha_Chief Officer Technical.jpg"
 import bhavika from "../../images/IMG-20211226-WA0032 - Bhavika Purav.jpg"
 import apurv from "../../images/IMG_20221020_201730 - APURV SONAWANE.jpg"
@@ -51,7 +51,7 @@ import twr from "../../images/The_White_Room.jpg"
 
 
 
-const  b={
+const b = {
     cafe_vjti22,
     drona,
     kitabvala,
@@ -65,7 +65,7 @@ const  b={
     Mindi22,
     VJTI,
     IMS22,
-    dushant,
+
     pratiksha,
     bhavika,
     apurv,
