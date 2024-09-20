@@ -17,7 +17,7 @@ const VirtualEvents = () => {
           }}
         >
           <h1 class="heading">
-            <span className="past">&ensp;रंगवर्धन २०२२-२३ आणि २०२३-२४&ensp;</span>
+            <span className="past">&ensp;रंगवर्धन २०२३-२४ आणि २०२४-२५&ensp;</span>
           </h1>
         </div>
         <div
