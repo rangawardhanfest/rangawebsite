@@ -11,8 +11,7 @@ import solu22 from '../images/Solu22.jpg';
 import swad22 from '../images/swad22.jpg';
 import TIB from '../images/TIB.jpg';
 import VJTI from "../images/VJTI.png";
-import Mahesh from "../images/Mahesh.jpg"
-import Yash from "../images/Yash.png"
+
 import rangablack from "../images/rang22-23_Black.png"
 import ranga_bg from "../images/Ranga_bg.jpeg"
 import djbest from "../images/djbest.jpg"
@@ -38,8 +37,7 @@ const exported = {
     Mindi22,
     VJTI,
     IMS22,
-    Mahesh,
-    Yash,
+
     rangablack,
     ranga_bg,
     djbest,

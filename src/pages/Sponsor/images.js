@@ -12,10 +12,6 @@ import swad22 from '../../images/swad22.jpg';
 import TIB from '../../images/TIB.jpg';
 import VJTI from "../../images/VJTI.png";
 
-import pratiksha from "../../images/Pratiksha_Chief Officer Technical.jpg"
-import bhavika from "../../images/IMG-20211226-WA0032 - Bhavika Purav.jpg"
-import apurv from "../../images/IMG_20221020_201730 - APURV SONAWANE.jpg"
-import amey from "../../images/Picsart_22-10-20_19-46-56-806 - Amey Pashte.jpg"
 import orient from "../../images/Orient.jpg"
 import lic from "../../images/LIC.jpg"
 import zoot from "../../images/Zoot.jpg"
@@ -66,10 +62,6 @@ const b = {
     VJTI,
     IMS22,
 
-    pratiksha,
-    bhavika,
-    apurv,
-    amey,
     orient,
     lic,
     zoot,
