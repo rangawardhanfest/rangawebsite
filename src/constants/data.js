@@ -101,6 +101,14 @@ const teams = [{
         m: 'mailto: apshekade_b21@ce.vjti.ac.in'
     },
     {
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293957/Pushkar_Sanap_Technical_Head_zzzptb.jpg",
+        name: "Pushkar Sanap",
+        Post: 'Technical Head',
+        l: 'https://www.linkedin.com/in/arnav-chavan-855497234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+        i: 'https://www.instagram.com/a.r.n.a.v_a.3.8.0?igsh=aWM2eGRueXYyZWZh',
+        // m:'mailto: arsonawane_b20@el.vjti.ac.in'
+    },
+    {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726869346/Ayush_M_ffvbuo.jpg",
         name: "Ayush Mhetre",
         Post: 'Technical Head',

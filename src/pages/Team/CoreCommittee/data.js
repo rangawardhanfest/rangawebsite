@@ -237,6 +237,11 @@ const WebDev = [{
         Post: 'Chief Technical Officer'
     },
     {
+        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726293957/Pushkar_Sanap_Technical_Head_zzzptb.jpg",
+        name: "Pushkar Sanap",
+        Post: 'Technical Head'
+    },
+    {
         img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726869346/Ayush_M_ffvbuo.jpg",
         name: "Ayush Mhetre",
         Post: 'Technical Head'
