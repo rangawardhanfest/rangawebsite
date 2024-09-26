@@ -3,12 +3,12 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726861339/yashbahiram_drakuv.jpg",
         name: "Yash Bahiram",
         Post: "Secretary",
-        l: "https://www.linkedin.com/in/nidhi-mhaske-988316251",
-        i: "https://instagram.com/_mhaskenidhi_07?igshid=OGQ5ZDc2ODk2ZA==",
+        l: "",
+        i: "",
         m: "mailto: nidhimhaske07@gmail.com",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726859995/vedika_u1lntc.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334131/vedika_xdtxg8.jpg",
         name: "Vedika Bharmal",
         Post: "Secretary",
         l: "",
@@ -24,7 +24,7 @@ const teams = [{
         m: "mailto: ksshrisath_b21@it.vjti.ac.in",
     },
     {
-        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726293429/Shrutika_Rode_Chief_Coordinator_mqv7kj.jpg",
+        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1727334047/Shrutika_Rode_Chief_Coordinator_ioeg2e.jpg",
         name: "Shrutika Rode",
         Post: "Chief Coordinator",
         l: "https://www.linkedin.com/in/athashree-patil-4433b8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -33,7 +33,7 @@ const teams = [{
     },
 
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726294336/Sai_Sonawane_Treasure_xs0bow.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333929/Sai_Sonawane_Treasure_vavoso.jpg",
         name: "Sai Sonawane",
         Post: "Treasurer",
         l: "https://www.linkedin.com/in/kashyap-chavhan-68052b205/",
@@ -41,7 +41,7 @@ const teams = [{
         m: "mailto: kdchavhan_b20@it.vjti.ac.in",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726294328/Vedant_Bhosale_Treasurer__zut6np.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333871/Vedant_Bhosale_Treasurer__bbrsoj.jpg",
         name: "Vedant Bhosale",
         Post: "Treasurer",
         l: "https://www.linkedin.com/in/shrinath-bhosale-2a2154244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -49,7 +49,7 @@ const teams = [{
         m: "mailto: shrinathbhosale2809@gmail.com",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293734/Pratiksha_Savandakar_Diploma_Coordinator_ndnaho.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333740/Pratiksha_Savandakar_Diploma_Coordinator_vgedsl.jpg",
         name: "Pratiksha Savandkar",
         Post: "Diploma Coordinator",
         l: "https://www.linkedin.com/in/athashree-patil-4433b8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -57,7 +57,7 @@ const teams = [{
         m: "mailto: aapatil_b21@ee.vjti.ac.in",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293741/Smit_Nagarkar_Diploma_Coordinator_bhcn4y.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334192/Smit_Nagarkar_Diploma_Coordinator_hv74zx.jpg",
         name: "Smit Nagarkar",
         Post: "Diploma Coordinator",
         l: "https://www.linkedin.com/in/athashree-patil-4433b8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -73,12 +73,12 @@ const sectorHeads = [
         img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726869338/Vedant_Wadu_Execution_Chief_Officer_lfxr5e.jpg",
         name: "Vedant Wadu",
         Post: "Chief Execution Officer",
-        l: "https://www.linkedin.com/in/adarsh-karande-547b0b20a",
-        i: "https://www.instagram.com/dhan_shree_04/",
+        l: "https://www.instagram.com/vedantwadu?igsh=MWRjaXg4a3RmNjU0Zw%3D%3D&utm_source=qr",
+        i: "https://www.instagram.com/vedantwadu?igsh=MWRjaXg4a3RmNjU0Zw%3D%3D&utm_source=qr",
         m: "mailto: dgmalewar_b21@ci.vjti.ac.in",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726869341/Shruti_Jawale_Execution_Chief_Officer_wbaf5d.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334803/Shruti_Jawale_Execution_Chief_Officer_m00lhk.jpg",
         name: "Shruti Jawale",
         Post: "Chief Execution Officer",
         l: "https://www.linkedin.com/in/adarsh-karande-547b0b20a",
@@ -86,7 +86,7 @@ const sectorHeads = [
         m: "mailto: dgmalewar_b21@ci.vjti.ac.in",
     },
     {
-        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726293820/Shubham_Wagale_Execution_chief_officer_nj0ddf.jpg",
+        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1727334799/Shubham_Wagale_Execution_chief_officer_shofkk.jpg",
         name: "Shubham Wagale",
         Post: "Chief Execution Officer",
         l: "https://www.linkedin.com/in/adarsh-karande-547b0b20a",
@@ -95,7 +95,7 @@ const sectorHeads = [
     },
     //Chief Public Relation Officer
     {
-        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726863193/Pushapak_Nagare_PR_Chief_Officer_qxxk1n.jpg",
+        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1727334957/Pushapak_Nagare_PR_Chief_Officer_my4rkp.jpg",
         name: "Pushapak Nagare",
         Post: "Chief Public Relation Officer",
         l: "https://www.linkedin.com/in/adarsh-karande-547b0b20a",
@@ -103,7 +103,7 @@ const sectorHeads = [
         m: "mailto: dgmalewar_b21@ci.vjti.ac.in",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293875/Arya_Dongare_PR_Chief_officer_wesihd.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334956/Arya_Dongare_PR_Chief_officer_otkdfm.jpg",
         name: "Arya Dongare",
         Post: "Chief Public Relation Officer",
         l: "https://www.linkedin.com/in/adarsh-karande-547b0b20a",
@@ -232,12 +232,12 @@ const WebDev = [{
         Post: 'Chief Technical Officer'
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293951/Harshala_Mahajan_Technical_Chief_Officer__ay3dam.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334372/Harshala_Mahajan_Technical_Chief_Officer__okju15.jpg",
         name: "Harshala Mahajan",
         Post: 'Chief Technical Officer'
     },
     {
-        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726293957/Pushkar_Sanap_Technical_Head_zzzptb.jpg",
+        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1727334462/Pushkar_Sanap_Technical_Head_uzz7ba.jpg",
         name: "Pushkar Sanap",
         Post: 'Technical Head'
     },
@@ -247,7 +247,7 @@ const WebDev = [{
         Post: 'Technical Head'
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726294326/Vedant_Ghode_Technical_Head_w0rdej.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334600/Vedant_Ghode_Technical_Head_ton41u.jpg",
         name: "Vedant Ghode",
         Post: 'Technical Head'
     },

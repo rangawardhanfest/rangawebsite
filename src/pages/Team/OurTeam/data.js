@@ -1,5 +1,3 @@
-
-
 const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726861339/yashbahiram_drakuv.jpg",
         name: "Yash Bahiram",
@@ -9,7 +7,7 @@ const teams = [{
         m: "mailto: nidhimhaske07@gmail.com",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726859995/vedika_u1lntc.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334131/vedika_xdtxg8.jpg",
         name: "Vedika Bharmal",
         Post: "Secretary",
         l: "",
@@ -25,7 +23,7 @@ const teams = [{
         m: "mailto: ksshrisath_b21@it.vjti.ac.in",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293429/Shrutika_Rode_Chief_Coordinator_mqv7kj.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334047/Shrutika_Rode_Chief_Coordinator_ioeg2e.jpg",
         name: "Shrutika Rode",
         Post: "Chief Coordinator",
         l: "https://www.linkedin.com/in/athashree-patil-4433b8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -34,7 +32,7 @@ const teams = [{
     },
 
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726294336/Sai_Sonawane_Treasure_xs0bow.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333929/Sai_Sonawane_Treasure_vavoso.jpg",
         name: "Sai Sonawane",
         Post: "Treasurer",
         l: "https://www.linkedin.com/in/kashyap-chavhan-68052b205/",
@@ -42,7 +40,7 @@ const teams = [{
         m: "mailto: kdchavhan_b20@it.vjti.ac.in",
     },
     {
-        img:"https://res.cloudinary.com/dcir5216l/image/upload/v1726294328/Vedant_Bhosale_Treasurer__zut6np.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333871/Vedant_Bhosale_Treasurer__bbrsoj.jpg",
         name: "Vedant Bhosale",
         Post: "Treasurer",
         l: "https://www.linkedin.com/in/shrinath-bhosale-2a2154244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -50,7 +48,7 @@ const teams = [{
         m: "mailto: shrinathbhosale2809@gmail.com",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293734/Pratiksha_Savandakar_Diploma_Coordinator_ndnaho.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333740/Pratiksha_Savandakar_Diploma_Coordinator_vgedsl.jpg",
         name: "Pratiksha Savandkar",
         Post: "Diploma Coordinator",
         l: "https://www.linkedin.com/in/athashree-patil-4433b8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -58,7 +56,7 @@ const teams = [{
         m: "mailto: aapatil_b21@ee.vjti.ac.in",
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293741/Smit_Nagarkar_Diploma_Coordinator_bhcn4y.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334192/Smit_Nagarkar_Diploma_Coordinator_hv74zx.jpg",
         name: "Smit Nagarkar",
         Post: "Diploma Coordinator",
         l: "https://www.linkedin.com/in/athashree-patil-4433b8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",

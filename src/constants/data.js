@@ -93,7 +93,7 @@ const teams = [{
         m: 'mailto: mvthakare_b21@ce.vjti.ac.in'
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293951/Harshala_Mahajan_Technical_Chief_Officer__ay3dam.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334372/Harshala_Mahajan_Technical_Chief_Officer__okju15.jpg",
         name: "Harshala Mahajan",
         Post: 'Chief Technical Officer',
         l: 'https://www.linkedin.com/in/ashok-shekade-12ba67243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
@@ -101,7 +101,7 @@ const teams = [{
         m: 'mailto: apshekade_b21@ce.vjti.ac.in'
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293957/Pushkar_Sanap_Technical_Head_zzzptb.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334462/Pushkar_Sanap_Technical_Head_uzz7ba.jpg",
         name: "Pushkar Sanap",
         Post: 'Technical Head',
         l: 'https://www.linkedin.com/in/arnav-chavan-855497234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
@@ -117,7 +117,7 @@ const teams = [{
         // m:'mailto: arsonawane_b20@el.vjti.ac.in'
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726294326/Vedant_Ghode_Technical_Head_w0rdej.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334600/Vedant_Ghode_Technical_Head_ton41u.jpg",
         name: "Vedant Ghode",
         Post: 'Technical Head',
         l: 'https://www.linkedin.com/in/yash-singh-b71271222/',
@@ -129,33 +129,30 @@ const Pastteams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726861693/Mahesh_zqmylr.jpg",
         name: "Mahesh Thakre",
         Post: 'Chief Officer',
-        l: 'https://www.linkedin.com/in/pratiksha-sankhe/',
-        i: 'https://www.instagram.com/pratikshasankhe_28/',
-        m: 'mailto: pssankhe_b20@ce.vjti.ac.in'
+        l: 'https://www.linkedin.com/in/mahesh-thakare-574386226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+        i: 'https://www.instagram.com/maheshthakare__2003?igsh=MWpwNDVrOHZuYmc2Zw==',
+        m: 'mailto: mvthakare_b21@ce.vjti.ac.in'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726861690/Ashok_cn93lz.jpg",
         name: "Ashok Shekade",
         Post: 'Technical Head',
-        l: 'https://www.linkedin.com/in/apurvsonawane/',
-        i: 'https://www.instagram.com/apurvstic/',
-        m: 'mailto: arsonawane_b20@el.vjti.ac.in'
+        l: 'https://www.linkedin.com/in/ashok-shekade-12ba67243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+        i: 'https://www.instagram.com/ashok_shekade_2003?igsh=MWx2bDkwdzh5bTB5aQ==',
+        m: 'mailto: apshekade_b21@ce.vjti.ac.in'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726861689/Arnav_pfemad.jpg",
         name: "Arnav Chavan",
         Post: 'Technical Head',
-        l: 'https://www.linkedin.com/in/bhavika-purav-b9b804240',
-        i: 'https://www.instagram.com/bhavikapurav/',
-        m: 'mailto: bmpurav_b21@ce.vjti.ac.in'
+        l: 'https://www.linkedin.com/in/arnav-chavan-855497234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+        i: 'https://www.instagram.com/a.r.n.a.v_a.3.8.0?igsh=aWM2eGRueXYyZWZh',
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726861710/Yash_auvmbm.png",
         name: "Yash Singh",
         Post: 'Technical Head',
-        l: 'aapashte_b21@it.vjti.ac.in',
-        i: 'https://www.instagram.com/ll._.ameyyy._.ll/',
-        m: 'mailto: https://www.linkedin.com/in/amey-pashte-b85354191'
+        l: 'https://www.linkedin.com/in/yash-singh-b71271222/'
     }
 ]
 
