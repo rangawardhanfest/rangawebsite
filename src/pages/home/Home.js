@@ -6,13 +6,17 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import Theme from "./Theme/Theme.js";
 import CurrentEvent from "./CurrentEvents/CurrentEvent.js";
+import TeamSection from "./TeamSection/TeamSection.js";
+import CoreCommittee from "./Team/CoreCommittee/CoreCommittee.js";
 
 AOS.init();
 function App() {
   return (
     <>
       <Header />
-      <CurrentEvent/>
+      {/*<TeamSection/>*/}
+      <CoreCommittee/>
+      {/*<CurrentEvent/>*/}
       <Theme />
       <WhatWeDo />
       <Sponsors />
