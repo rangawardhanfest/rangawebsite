@@ -1,121 +1,101 @@
-body{
-  margin:0;
-  padding:0;
-  
-}
-.animationforheader{
-  height: 100vh;
-  overflow: hidden;
-}
-.animationforheader::before{
-  content: '';
-  position: absolute;
-  top:0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to right, #f00,#f00,#0f0,#0ff,#ff0,#0ff);
-  mix-blend-mode: color;
-  pointer-events: none;
+body {
+    margin: 0;
+    padding: 0;
 }
 
- .videoheader{
-  object-fit: cover;
-  margin-left: 10vw;
-}
-.parts{
-  margin: 0;
-  padding: 0;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 100%;
-  text-align: center;
-  color: #fff;
-  
-  font-family:sans-serif;
-  text-transform: uppercase;
-}
-.parts .past{
-  font-size: 6vw;
+.animationforheader {
+    height: calc(100vh - 80px);
+    /* Adjust based on your navbar height */
+    overflow: hidden;
+    position: relative;
+    /* Position relative for absolute child positioning */
+    padding-top: 80px;
+    /* Add padding to accommodate the navbar height */
 }
 
-.parts span{
-  display: inline-block;
-  animation: smoke 1s linear forwards;
-}
-.parts div{
-  /* display: inline-block; */
-  animation: smoke 1s linear forwards;
-}
-@keyframes smoke{
-  0%{
-      opacity: 0;
-      transform: rotateY(90deg);
-      filter: blur(10px)
-  }
-  100%{
-      opacity: 1;
-      transform: rotateY(0deg);
-      filter:blur(0)
-  }
-}
-.parts span:nth-child(1){
-  color:#186aa0;
-  opacity: 0;
-  animation-delay: 0.4s;
-}
-.parts span:nth-child(2){
-  opacity: 0;
-  animation-delay: 0.8s;
-}
-.parts span:nth-child(3){
-  opacity: 0;
-  animation-delay: 1.2s;
-}
-.parts span:nth-child(4){
-  opacity: 0;
-  animation-delay: 1.6s;
-}
-.parts span:nth-child(5){
-  color:#186aa0;
-  opacity: 0;
-  animation-delay: 2s;
-}
-.parts span:nth-child(6){
-  opacity: 0;
-  animation-delay: 2.4s;
-}
-.parts span:nth-child(7){
-  opacity: 0;
-  animation-delay: 2s;
-}
-.parts span:nth-child(8){
-  opacity: 0;
-  animation-delay: 2.2s;
-}
-.parts span:nth-child(9){
-  opacity: 0;
-  animation-delay: 2.6s;
-}
-.parts span:nth-child(10){
-  opacity: 0;
-  animation-delay: 2.6s;
-}
-.parts span:nth-child(11){
-  opacity: 0;
-  animation-delay: 2.6s;
-}
-.parts span:nth-child(12){
-  opacity: 0;
-  animation-delay: 2.8s;
+.animationforheader::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, #f00, #f00, #0f0, #0ff, #ff0, #0ff);
+    mix-blend-mode: color;
+    pointer-events: none;
+    z-index: 1;
+    /* Set z-index lower than the navbar */
 }
 
-@media screen and (max-width: 480px){
-  .parts .past{
-    font-size: 13vw;
-  }
-  .parts .animate-charcter{
-    font-size: 5vw;
-  }
+.videoheader {
+    object-fit: cover;
+    width: 100%;
+    /* Make video full width */
+    height: 100%;
+    /* Make video full height */
+    position: absolute;
+    /* Position video absolutely within the header */
+    top: 0;
+    left: 0;
+    z-index: 0;
+    /* Set z-index lower than the navbar */
+}
+
+.parts {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    z-index: 2;
+    /* Set z-index higher than the video */
+}
+
+.parts .past {
+    font-size: 6vw;
+}
+
+.parts span {
+    display: inline-block;
+    animation: smoke 1s linear forwards;
+}
+
+.parts div {
+    animation: smoke 1s linear forwards;
+}
+
+@keyframes smoke {
+    0% {
+        opacity: 0;
+        transform: rotateY(90deg);
+        filter: blur(10px);
+    }
+    100% {
+        opacity: 1;
+        transform: rotateY(0deg);
+        filter: blur(0);
+    }
+}
+
+.parts span:nth-child(1) {
+    color: #186aa0;
+    opacity: 0;
+    animation-delay: 0.4s;
+}
+
+
+/* Repeat for other spans with appropriate delays */
+
+@media screen and (max-width: 480px) {
+    .parts .past {
+        font-size: 13vw;
+    }
+    .parts .animate-charcter {
+        font-size: 5vw;
+    }
 }

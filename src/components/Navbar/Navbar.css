@@ -1,16 +1,73 @@
+.Navbar {
+    position: fixed;
+    /* Fix the Navbar at the top */
+    top: 0;
+    /* Align to the top of the viewport */
+    left: 0;
+    /* Align to the left of the viewport */
+    right: 0;
+    /* Align to the right of the viewport */
+    height: 80px;
+    /* Height of the Navbar */
+    background-color: transparent;
+    /* Make background transparent */
+    transition: background-color 0.3s ease;
+    /* Smooth transition for background change */
+    z-index: 1000;
+    /* Ensure it's above other content */
+}
+
+.navbar-content {
+    display: flex;
+    /* Ensure content is flexibly laid out */
+    justify-content: space-between;
+    /* Space between brand and toggler */
+    align-items: center;
+    /* Center items vertically */
+    height: 100%;
+    /* Ensure full height */
+}
+
+body {
+    margin-top: 80px;
+    /* Add top margin equal to Navbar height */
+}
+
+.scrolled .Navbar {
+    background-color: rgba(255, 255, 255, 0.5);
+    /* Less transparent on scroll */
+}
+
 .brand-and-toggler {
     justify-content: space-between;
     align-items: center;
     width: 100%;
     height: 80px;
-    top: 0px;
+    /* Keep height consistent */
+    padding: 0 20px;
+    /* Optional: Add horizontal padding */
 }
-.nav-link{
+
+.navbar-links {
+    display: flex;
+    /* Align links in a row */
+    gap: 150px;
+    /* Space between links */
+}
+
+.nav-link {
     font-weight: normal;
+    color: #FFFFFF;
+    /* Set original white color for the link */
+    position: relative;
+    /* Required for the ::after pseudo-element */
 }
-.nav-link:hover{
-    color: red;
+
+.nav-link:hover {
+    color: #eae316;
+    /* Change to desired hover color */
 }
+
 .nav-link::after {
     content: '';
     position: absolute;
@@ -20,6 +77,7 @@
     bottom: 0;
     left: 0;
     background-color: #eae316;
+    /* Optional underline color */
     transform-origin: bottom right;
     transition: transform 0.25s ease-out;
 }
@@ -29,30 +87,61 @@
     transform-origin: bottom left;
 }
 
+
+/* Add other existing styles you already have */
+
 .navbar-brand {
     align-items: center;
 }
 
-.navbar-brand span:first-child {
-    display: inline-block;
-    border: 3px solid var(--white-color);
-    padding: 0 1.2rem!important;
-    margin-right: 1rem;
-    transition: var(--transition);
+
+/* Navbar brand styles */
+
+.navbar-brand h3 {
+    color: #FFFFFF;
+    /* Set original white color for the brand name */
+    transition: none;
+    /* Disable transitions for hover effects */
 }
 
-.navbar-brand span:last-child {
-    transition: var(--transition);
+.navbar-brand img {
+    filter: none;
+    /* Ensure no filters are applied to the image */
+    transition: none;
+    /* Disable transitions for hover effects */
 }
 
-.navbar-brand:hover span:first-child {
-    background-color: var(--white-color);
-    color: var(--red-color);
+
+/* Remove hover effects on navbar-brand */
+
+.navbar-brand:hover h3 {
+    color: #FFFFFF;
+    /* Keep it white on hover */
 }
 
-.navbar-brand:hover span:last-child {
-    color: var(--white-color);
+
+/* Button styles */
+
+.navbar-show-btn {
+    background-color: white;
+    /* Set button background to white */
+    color: black;
+    /* Set text/icon color to black */
+    border: none;
+    /* Remove border */
+    padding: 10px;
+    /* Add padding */
+    cursor: pointer;
+    /* Change cursor to pointer */
 }
+
+.navbar-show-btn:hover {
+    background-color: #f0f0f0;
+    /* Optional hover effect */
+}
+
+
+/* Navbar collapse styles */
 
 .navbar-collapse {
     position: fixed;
@@ -77,14 +166,6 @@
     top: 2rem;
     transition: var(--transition);
 }
-@media screen and (max-width: 480px){
-    .navhead{
-        font-size: 60%;
-    }
-}
-.navbar-collapse .navbar-hide-btn:hover {
-    opacity: 0.9;
-}
 
 .navbar-collapse .nav-item {
     margin: 2rem 0;
@@ -98,24 +179,35 @@
 
 .navbar-collapse .nav-link:hover {
     transform: scale(1.2);
+    /* No change on hover */
 }
 
-@media screen and (min-width:480px) {
-    .navbar-collapse {
-        width: 300px;
+@media screen and (max-width: 480px) {
+    .navhead {
+        font-size: 60%;
+        /* Adjust font size for smaller screens */
     }
 }
 
-.ranga-logo {
-    max-width: 60px;
-    height: 60px;
+@media screen and (min-width: 480px) {
+    .navbar-collapse {
+        width: 300px;
+        /* Set width for larger screens */
+    }
 }
 
-.navbar-image {
-    max-height: 20%;
-    max-width: 40%;
-    margin-left: 30%;
+
+/* Logo styles */
+
+.ranga-logo {
+    max-width: 60px;
+    /* Set max width for the logo */
+    height: 60px;
+    /* Set height for the logo */
 }
+
+
+/* Google Translate element styles */
 
 #google_translate_element {
     width: 30px !important;
@@ -124,21 +216,33 @@
 
 div#google_translate_element div.goog-te-gadget-simple {
     font-size: 0px;
+    /* Hide the default font size */
 }
 
 div#google_translate_element div.goog-te-gadget-simple {
     background-color: black;
+    /* Set background color */
     height: 22px;
+    /* Set height */
     display: hidden;
     width: 22px;
+    /* Set width */
     cursor: pointer;
+    /* Change cursor to pointer */
 }
 
 div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span {
     color: white;
+    /* Set text color to white */
     display: hidden !important;
 }
 
 div#google_translate_element div.goog-te-gadget-simple a.goog-te-menu-value span:hover {
-    color: yellow
+    color: yellow;
+    /* Change color on hover */
+}
+
+.navbar-collapse .navbar-hide-btn:hover {
+    opacity: 0.9;
+    /* Change opacity on hover */
 }

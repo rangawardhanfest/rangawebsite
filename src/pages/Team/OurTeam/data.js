@@ -2,66 +2,66 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726861339/yashbahiram_drakuv.jpg",
         name: "Yash Bahiram",
         Post: "Secretary",
-        l: "https://www.linkedin.com/in/nidhi-mhaske-988316251",
-        i: "https://instagram.com/_mhaskenidhi_07?igshid=OGQ5ZDc2ODk2ZA==",
-        m: "mailto: nidhimhaske07@gmail.com",
+        l: "",
+        i: "",
+        m: "mailto: "
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334131/vedika_xdtxg8.jpg",
         name: "Vedika Bharmal",
         Post: "Secretary",
         l: "",
-        i: "https://instagram.com/crazybot_?igshid=MmVlMjlkMTBhMg==",
-        m: "mailto: vnratnaparkhi_b21@ee.vjti.ac.in",
+        i: "",
+        m: "mailto: "
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293436/Kalpesh_Deshmukh___Chief_Coordinator__iwdwx7.jpg",
         name: "Kalpesh Deshmukh",
         Post: "Chief Coordinator",
-        l: "https://www.linkedin.com/in/kalyani-shirsath-81123518b",
-        i: "https://www.instagram.com/kalyani_shirsath17/",
-        m: "mailto: ksshrisath_b21@it.vjti.ac.in",
+        l: "",
+        i: "",
+        m: "mailto: "
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334047/Shrutika_Rode_Chief_Coordinator_ioeg2e.jpg",
         name: "Shrutika Rode",
         Post: "Chief Coordinator",
-        l: "https://www.linkedin.com/in/athashree-patil-4433b8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        i: "https://instagram.com/dazzle_patil?igshid=YzAwZjE1ZTI0Zg==",
-        m: "mailto: aapatil_b21@ee.vjti.ac.in",
+        l: "",
+        i: "",
+        m: "mailto: "
     },
 
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333929/Sai_Sonawane_Treasure_vavoso.jpg",
         name: "Sai Sonawane",
         Post: "Treasurer",
-        l: "https://www.linkedin.com/in/kashyap-chavhan-68052b205/",
-        i: "https://www.instagram.com/_aniruddha_tathe?igsh=OGQ5ZDc2ODk2ZA==",
-        m: "mailto: kdchavhan_b20@it.vjti.ac.in",
+        l: "",
+        i: "",
+        m: "mailto: "
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333871/Vedant_Bhosale_Treasurer__bbrsoj.jpg",
         name: "Vedant Bhosale",
         Post: "Treasurer",
-        l: "https://www.linkedin.com/in/shrinath-bhosale-2a2154244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        l: "",
         i: "",
-        m: "mailto: shrinathbhosale2809@gmail.com",
+        m: "mailto: "
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333740/Pratiksha_Savandakar_Diploma_Coordinator_vgedsl.jpg",
         name: "Pratiksha Savandkar",
         Post: "Diploma Coordinator",
-        l: "https://www.linkedin.com/in/athashree-patil-4433b8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        i: "https://instagram.com/dazzle_patil?igshid=YzAwZjE1ZTI0Zg==",
-        m: "mailto: aapatil_b21@ee.vjti.ac.in",
+        l: "",
+        i: "",
+        m: "mailto: "
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334192/Smit_Nagarkar_Diploma_Coordinator_hv74zx.jpg",
         name: "Smit Nagarkar",
         Post: "Diploma Coordinator",
-        l: "https://www.linkedin.com/in/athashree-patil-4433b8285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        i: "https://instagram.com/dazzle_patil?igshid=YzAwZjE1ZTI0Zg==",
-        m: "mailto: aapatil_b21@ee.vjti.ac.in",
+        l: "",
+        i: "",
+        m: "mailto: "
     },
 ];
 

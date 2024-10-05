@@ -88,41 +88,41 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293932/Akshay_Kulkarni_Technical_CTO_sstur5.jpg",
         name: "Akshay Kulkarni",
         Post: 'Chief Technical Officer',
-        l: 'https://www.linkedin.com/in/mahesh-thakare-574386226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
-        i: 'https://www.instagram.com/maheshthakare__2003?igsh=MWpwNDVrOHZuYmc2Zw==',
-        m: 'mailto: mvthakare_b21@ce.vjti.ac.in'
+        l: '',
+        i: '',
+        m: 'mailto: '
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334372/Harshala_Mahajan_Technical_Chief_Officer__okju15.jpg",
         name: "Harshala Mahajan",
         Post: 'Chief Technical Officer',
-        l: 'https://www.linkedin.com/in/ashok-shekade-12ba67243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
-        i: 'https://www.instagram.com/ashok_shekade_2003?igsh=MWx2bDkwdzh5bTB5aQ==',
-        m: 'mailto: apshekade_b21@ce.vjti.ac.in'
+        l: '',
+        i: '',
+        m: 'mailto: mharshala334@mail.com'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334462/Pushkar_Sanap_Technical_Head_uzz7ba.jpg",
         name: "Pushkar Sanap",
         Post: 'Technical Head',
-        l: 'https://www.linkedin.com/in/arnav-chavan-855497234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
-        i: 'https://www.instagram.com/a.r.n.a.v_a.3.8.0?igsh=aWM2eGRueXYyZWZh',
-        // m:'mailto: arsonawane_b20@el.vjti.ac.in'
+        l: '',
+        i: '',
+        m:'mailto: '
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726869346/Ayush_M_ffvbuo.jpg",
         name: "Ayush Mhetre",
         Post: 'Technical Head',
-        l: 'https://www.linkedin.com/in/arnav-chavan-855497234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
-        i: 'https://www.instagram.com/a.r.n.a.v_a.3.8.0?igsh=aWM2eGRueXYyZWZh',
-        // m:'mailto: arsonawane_b20@el.vjti.ac.in'
+        l: '',
+        i: '',
+        m:'mailto: '
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334600/Vedant_Ghode_Technical_Head_ton41u.jpg",
         name: "Vedant Ghode",
         Post: 'Technical Head',
-        l: 'https://www.linkedin.com/in/yash-singh-b71271222/',
-        // i:'https://www.instagram.com/bhavikapurav/',
-        // m:'mailto: bmpurav_b21@ce.vjti.ac.in'
+        l: '',
+        i: '',
+        m:'mailto: '
     }
 ]
 const Pastteams = [{
