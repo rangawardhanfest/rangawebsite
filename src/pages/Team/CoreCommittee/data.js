@@ -127,6 +127,23 @@ const sectorHeads = [
         i: "",
         m: "mailto: "
     },
+    //Chief Outreach Officer 
+    {
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1729445877/Bhumi_Batawale_Outreach_Chief_Officer_qchnfv.jpg",
+        name: "Bhumi Batawale",
+        Post: "Chief Outreach Officer",
+        l: "",
+        i: "",
+        m: "mailto: "
+    },
+    {
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1729445885/Shlok_Ghanwat_Outreach_Chief_Officer_c0lgio.jpg",
+        name: "Shlok Ghanwat",
+        Post: "Chief Outreach Officer",
+        l: "",
+        i: "",
+        m: "mailto: "
+    },
     //Chief Sponsorship Officer
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1728163666/Sushant_Wagh__Spons_Chief_officer_qphodi.jpg",
