@@ -19,8 +19,8 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293436/Kalpesh_Deshmukh___Chief_Coordinator__iwdwx7.jpg",
         name: "Kalpesh Deshmukh",
         Post: "Chief Coordinator",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/kalpesh-deshmukh-311514308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        i: "https://www.instagram.com/its_kalpesh_105?igsh=aWtzNG9vM24yeHJw",
         m: "mailto: "
     },
     {
@@ -44,8 +44,8 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333871/Vedant_Bhosale_Treasurer__bbrsoj.jpg",
         name: "Vedant Bhosale",
         Post: "Treasurer",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/vedant-bhosale-0985481b4",
+        i: "https://www.instagram.com/vedant_.06?igsh=bWRnN2drZHNkeDFh",
         m: "mailto: "
     },
     {
@@ -60,8 +60,8 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334192/Smit_Nagarkar_Diploma_Coordinator_hv74zx.jpg",
         name: "Smit Nagarkar",
         Post: "Diploma Coordinator",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/smit-nagarkar-54a8b8278",
+        i: "https://www.instagram.com/s.m.i.t1706/",
         m: "mailto: "
     },
 ];
@@ -74,15 +74,15 @@ const sectorHeads = [
         name: "Vedant Wadu",
         Post: "Chief Execution Officer",
         l: "",
-        i: "",
+        i: "https://www.instagram.com/vedantwadu?igsh=MWRjaXg4a3RmNjU0Zw%3D%3D&utm_source=qr",
         m: "mailto: "
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334803/Shruti_Jawale_Execution_Chief_Officer_m00lhk.jpg",
         name: "Shruti Jawale",
         Post: "Chief Execution Officer",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/shruti-jawale-2a74a0286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        i: "https://www.instagram.com/shrutiijawale._?igsh=MTcxMHV1YW53ZnA1dQ%3D%3D&utm_source=qr",
         m: "mailto: "
     },
     {
@@ -107,7 +107,7 @@ const sectorHeads = [
         name: "Arya Dongare",
         Post: "Chief Public Relation Officer",
         l: "",
-        i: "",
+        i: "https://www.instagram.com/dongare_arya?igsh=cTd6aWNudmo3bXJm",
         m: "mailto: "
     },
     //Chief Marketing Officer
@@ -116,15 +116,15 @@ const sectorHeads = [
         name: "Kshitij Suradkar",
         Post: "Chief Marketing Officer",
         l: "",
-        i: "",
+        i: "https://www.instagram.com/sparrkshitij?igsh=d2NnZWVpZzNneGVp",
         m: "mailto: "
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293841/Rutuja_Mathkar_Marketing_Cheif_Officer_toz8pe.jpg",
         name: "Rutuja Mathkar",
         Post: "Chief Marketing Officer",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/rutuja-mathkar-30a00a30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        i: "https://www.instagram.com/rutuja_mathkar07?igsh=MXE0aTM1bTIzaDhyMw==",
         m: "mailto: "
     },
     //Chief Outreach Officer 
@@ -140,8 +140,8 @@ const sectorHeads = [
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1729445885/Shlok_Ghanwat_Outreach_Chief_Officer_c0lgio.",
         name: "Shlok Ghanwat",
         Post: "Chief Outreach Officer",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/shlok-ghanwat-794294263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        i: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/shlokghanwat/&ved=2ahUKEwiB-4-z6cGIAxUad2wGHUBYETwQFnoECBQQAQ&usg=AOvVaw2KzC8JW_a3fGyTudi3aC4y",
         m: "mailto: "
     },
     //Chief Sponsorship Officer
@@ -182,8 +182,8 @@ const sectorHeads = [
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293529/Prerna_Tandale_Design_Chief_Officer_lxh7tc.jpg",
         name: "Prerna Tandale",
         Post: "Chief Design Officer",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/prerna-tandale-b95a92322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        i: "https://www.instagram.com/bappalover_pt?igsh=b2gyNWVoMzN1cnJ1",
         m: "mailto: ",
     },
     //Chief Content Officer
@@ -199,7 +199,7 @@ const sectorHeads = [
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1728164678/Riddhi__Dapke_Content_Chief_zdwzhl.jpg",
         name: "Riddhi Dapke",
         Post: "Chief Content Officer",
-        l: "",
+        l: "https://www.linkedin.com/in/riddhi-dapke-7b164625b/",
         i: "",
         m: "mailto: "
     },
@@ -211,7 +211,7 @@ const sectorHeads = [
         name: "Atharva Kate",
         Post: "Chief Digital&Social Media Officer",
         l: "",
-        i: "",
+        i: "https://www.instagram.com/atharvakate4242?igsh=djZodXJpZnRlenN6",
         m: "mailto: "
     },
     {
@@ -219,24 +219,24 @@ const sectorHeads = [
         name: "Vaishnavi Sonar",
         Post: "Chief Digital&Social Media Officer",
         l: "",
-        i: "",
+        i: "https://www.instagram.com/_vaishhhh18__?igsh=dGNjY2kyeDhuaWd3",
         m: "mailto: "
     },
     //Chief Performing Art Officer
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1728164951/Piyush_Kishmatrao_Chief_performing_art__sw8rrx.jpg",
-        name: "Piyush Kishmatrao",
+        name: "Piyush Khismatrao",
         Post: "Chief Performing Art Officer",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/piyush-khismatrao-8766b730a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        i: "https://www.instagram.com/piyush_khis27?igsh=MTZwY3JjNTIxd3Mwcg%3D%3D&utm_source=qr",
         m: "mailto: "
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1728164950/AARTI_PARDESHI_CHIEF_PERFORMING_ARTS_l0hngr.jpg",
         name: "Aarti Pardeshi",
         Post: "Chief Performing Art Officer",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/aarti-pardeshi-4647692b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        i: "https://www.instagram.com/aartipardeshi04?igsh=djVsOTN1dGJmcG90",
         m: "mailto: "
     },
 

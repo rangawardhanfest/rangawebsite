@@ -18,8 +18,8 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293436/Kalpesh_Deshmukh___Chief_Coordinator__iwdwx7.jpg",
         name: "Kalpesh Deshmukh",
         Post: "Chief Coordinator",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/kalpesh-deshmukh-311514308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        i: "https://www.instagram.com/its_kalpesh_105?igsh=aWtzNG9vM24yeHJw",
         m: "mailto: "
     },
     {
@@ -43,8 +43,8 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333871/Vedant_Bhosale_Treasurer__bbrsoj.jpg",
         name: "Vedant Bhosale",
         Post: "Treasurer",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/vedant-bhosale-0985481b4",
+        i: "https://www.instagram.com/vedant_.06?igsh=bWRnN2drZHNkeDFh",
         m: "mailto: "
     },
     {

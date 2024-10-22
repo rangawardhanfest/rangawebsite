@@ -88,16 +88,16 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293932/Akshay_Kulkarni_Technical_CTO_sstur5.jpg",
         name: "Akshay Kulkarni",
         Post: 'Chief Technical Officer',
-        l: '',
-        i: '',
+        l: 'https://www.linkedin.com/in/akshay-kulkarni-28482b250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+        i: 'https://www.instagram.com/akshay_k.04/',
         m: 'mailto: '
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334372/Harshala_Mahajan_Technical_Chief_Officer__okju15.jpg",
         name: "Harshala Mahajan",
         Post: 'Chief Technical Officer',
-        l: '',
-        i: '',
+        l: 'https://www.linkedin.com/in/harshalam334/',
+        i: 'https://www.instagram.com/m.harshala_99/',
         m: 'mailto: mharshala334@gmail.com'
     },
     {
