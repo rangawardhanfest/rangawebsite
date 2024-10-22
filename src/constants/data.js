@@ -98,7 +98,7 @@ const teams = [{
         Post: 'Chief Technical Officer',
         l: '',
         i: '',
-        m: 'mailto: mharshala334@mail.com'
+        m: 'mailto: mharshala334@gmail.com'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334462/Pushkar_Sanap_Technical_Head_uzz7ba.jpg",

@@ -137,7 +137,7 @@ const sectorHeads = [
         m: "mailto: "
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1729445885/Shlok_Ghanwat_Outreach_Chief_Officer_c0lgio.jpg",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1729445885/Shlok_Ghanwat_Outreach_Chief_Officer_c0lgio.",
         name: "Shlok Ghanwat",
         Post: "Chief Outreach Officer",
         l: "",
