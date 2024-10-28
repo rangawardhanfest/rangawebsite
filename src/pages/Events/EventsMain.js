@@ -26,7 +26,7 @@ const EventsMain = () => {
               <div className="allevent_card">
                 <div className="event_info">
                   <div className="event_info_img">
-                    <img src={shubharambh} alt="" />
+                    <img src='https://res.cloudinary.com/dcir5216l/image/upload/v1730129855/IMG-20241024-WA0008_qf03kf.jpg' alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4 style={{fontFamily:"Gotu"}}>शुभारंभ</h4>
@@ -40,7 +40,7 @@ const EventsMain = () => {
               <div className="allevent_card">
                 <div className="event_info">
                   <div className="event_info_img">
-                    <img src={rangakatta} alt="" />
+                    <img src='https://res.cloudinary.com/dcir5216l/image/upload/v1730129884/20241003_200234_zjkshz.jpg' alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4  style={{fontFamily:"Gotu"}}>रंगा कट्टा</h4>
@@ -69,7 +69,7 @@ const EventsMain = () => {
               <div className="allevent_card">
                 <div className="event_info">
                   <div className="event_info_img">
-                    <img src={durgabhet} alt="" />
+                    <img src='https://res.cloudinary.com/dcir5216l/image/upload/v1730129880/IMG-20241023-WA0009_jwfzeo.jpg' alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4  style={{fontFamily:"Gotu"}}>दुर्ग भेट </h4>
