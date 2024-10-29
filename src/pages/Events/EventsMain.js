@@ -4,10 +4,9 @@ import VirtualEvents from "../../images/Virtual Events.png";
 import AnnualEvents from "../../images/Annual Event.png";
 import DecemberToRemember from "../../images/December To Remember - Events - Rangawardhan VJTI.jpg";
 import "./event.css";
-import rangakatta from "./rangakatta.jpg";
+
 import bhatkanti from "./bhatkanti.jpg";
-import shubharambh from "./shubharambh.JPG";
-import durgabhet from "./durgabhet.jpg";
+
 
 const EventsMain = () => {
   return (
@@ -26,7 +25,7 @@ const EventsMain = () => {
               <div className="allevent_card">
                 <div className="event_info">
                   <div className="event_info_img">
-                    <img src='https://res.cloudinary.com/dcir5216l/image/upload/v1730129855/IMG-20241024-WA0008_qf03kf.jpg' alt="" />
+                    <img src="https://res.cloudinary.com/dcir5216l/image/upload/v1730129855/IMG-20241024-WA0008_qf03kf.jpg" alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4 style={{fontFamily:"Gotu"}}>शुभारंभ</h4>
@@ -40,7 +39,7 @@ const EventsMain = () => {
               <div className="allevent_card">
                 <div className="event_info">
                   <div className="event_info_img">
-                    <img src='https://res.cloudinary.com/dcir5216l/image/upload/v1730129884/20241003_200234_zjkshz.jpg' alt="" />
+                    <img src="https://res.cloudinary.com/dcir5216l/image/upload/v1730129884/20241003_200234_zjkshz.jpg" alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4  style={{fontFamily:"Gotu"}}>रंगा कट्टा</h4>
@@ -69,7 +68,7 @@ const EventsMain = () => {
               <div className="allevent_card">
                 <div className="event_info">
                   <div className="event_info_img">
-                    <img src='https://res.cloudinary.com/dcir5216l/image/upload/v1730129880/IMG-20241023-WA0009_jwfzeo.jpg' alt="" />
+                    <img src="https://res.cloudinary.com/dcir5216l/image/upload/v1730129880/IMG-20241023-WA0009_jwfzeo.jpg" alt="" />
                   </div>
                   <div className="event_info_name">
                     <h4  style={{fontFamily:"Gotu"}}>दुर्ग भेट </h4>
