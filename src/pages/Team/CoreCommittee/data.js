@@ -162,8 +162,8 @@ const sectorHeads = [
         m: "mailto: "
     },
     {
-        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1728163670/Atharv_Baviskar__Chief_Sponsorship_Officer_hxelv2.jpg",
-        name: "Atharv Baviskar",
+        img: "https://res.cloudinary.com/dcir5216l/image/upload/v1731871156/IMG_20241118_004738_ircxgh.jpg",
+        name: "Amey Jawale",
         Post: "Chief Sponsorship Officer",
         l: "",
         i: "",
