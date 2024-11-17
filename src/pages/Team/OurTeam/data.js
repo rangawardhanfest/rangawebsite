@@ -12,7 +12,7 @@ const teams = [{
         Post: "Secretary",
         l: "",
         i: "",
-        m: "mailto: "
+        m: "mailto: bharmalvedika@gmail.com"
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293436/Kalpesh_Deshmukh___Chief_Coordinator__iwdwx7.jpg",
