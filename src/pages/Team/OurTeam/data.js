@@ -10,8 +10,8 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334131/vedika_xdtxg8.jpg",
         name: "Vedika Bharmal",
         Post: "Secretary",
-        l: "",
-        i: "",
+        l: "https://www.linkedin.com/in/vedika-bharmal-1b4b1b2bb/",
+        i: "https://www.instagram.com/vedaa.___/profilecard/?igsh=MTc1b3Mzem9xMmxlNQ==",
         m: "mailto: bharmalvedika@gmail.com"
     },
     {
@@ -26,9 +26,9 @@ const teams = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334047/Shrutika_Rode_Chief_Coordinator_ioeg2e.jpg",
         name: "Shrutika Rode",
         Post: "Chief Coordinator",
-        l: "",
-        i: "",
-        m: "mailto: "
+        l: "https://linkedin.com/in/shrutika-rode-328b60318",
+        i: "https://www.instagram.com/rode_shrutika?igsh=bjdyMWM1aXo0bWMw",
+        m: "mailto: shrutikarode4@gmail.com"
     },
 
     {
