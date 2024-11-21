@@ -4,7 +4,7 @@ const teams = [{
         Post: "Secretary",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334131/vedika_xdtxg8.jpg",
@@ -12,7 +12,7 @@ const teams = [{
         Post: "Secretary",
         l: "https://www.linkedin.com/in/vedika-bharmal-1b4b1b2bb/",
         i: "https://www.instagram.com/vedaa.___/profilecard/?igsh=MTc1b3Mzem9xMmxlNQ==",
-        m: "mailto:bharmalvedika@gmail.com"
+        m: 'mailto:bharmalvedika@gmail.com'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293436/Kalpesh_Deshmukh___Chief_Coordinator__iwdwx7.jpg",
@@ -20,7 +20,7 @@ const teams = [{
         Post: "Chief Coordinator",
         l: "https://www.linkedin.com/in/kalpesh-deshmukh-311514308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         i: "https://www.instagram.com/its_kalpesh_105?igsh=aWtzNG9vM24yeHJw",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334047/Shrutika_Rode_Chief_Coordinator_ioeg2e.jpg",
@@ -28,7 +28,7 @@ const teams = [{
         Post: "Chief Coordinator",
         l: "https://linkedin.com/in/shrutika-rode-328b60318",
         i: "https://www.instagram.com/rode_shrutika?igsh=bjdyMWM1aXo0bWMw",
-        m: "mailto:shrutikarode4@gmail.com"
+        m: 'mailto:shrutikarode4@gmail.com'
     },
 
     {
@@ -37,7 +37,7 @@ const teams = [{
         Post: "Treasurer",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333871/Vedant_Bhosale_Treasurer__bbrsoj.jpg",
@@ -45,7 +45,7 @@ const teams = [{
         Post: "Treasurer",
         l: "https://www.linkedin.com/in/vedant-bhosale-0985481b4",
         i: "https://www.instagram.com/vedant_.06?igsh=bWRnN2drZHNkeDFh",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333740/Pratiksha_Savandakar_Diploma_Coordinator_vgedsl.jpg",
@@ -53,7 +53,7 @@ const teams = [{
         Post: "Diploma Coordinator",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334192/Smit_Nagarkar_Diploma_Coordinator_hv74zx.jpg",
@@ -61,7 +61,7 @@ const teams = [{
         Post: "Diploma Coordinator",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
 ];
 

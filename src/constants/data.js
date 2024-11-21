@@ -90,7 +90,7 @@ const teams = [{
         Post: 'Chief Technical Officer',
         l: 'https://www.linkedin.com/in/akshay-kulkarni-28482b250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
         i: 'https://www.instagram.com/akshay_k.04/',
-        m: 'mailto: '
+        m: 'mailto:akshaykulkarni2004@gmail.com'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334372/Harshala_Mahajan_Technical_Chief_Officer__okju15.jpg",

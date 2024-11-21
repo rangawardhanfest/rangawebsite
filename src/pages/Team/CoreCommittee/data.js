@@ -5,7 +5,7 @@ const teams = [{
         Post: "Secretary",
         l: "",
         i: "",
-        m: "mailto: ",
+        m: 'mailto:',
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334131/vedika_xdtxg8.jpg",
@@ -13,7 +13,7 @@ const teams = [{
         Post: "Secretary",
         l: "https://www.linkedin.com/in/vedika-bharmal-1b4b1b2bb/",
         i: "https://www.instagram.com/vedaa.___/profilecard/?igsh=MTc1b3Mzem9xMmxlNQ==",
-        m: "mailto:bharmalvedika@gmail.com"
+        m: 'mailto:bharmalvedika@gmail.com'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293436/Kalpesh_Deshmukh___Chief_Coordinator__iwdwx7.jpg",
@@ -21,7 +21,7 @@ const teams = [{
         Post: "Chief Coordinator",
         l: "https://www.linkedin.com/in/kalpesh-deshmukh-311514308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         i: "https://www.instagram.com/its_kalpesh_105?igsh=aWtzNG9vM24yeHJw",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img:"https://res.cloudinary.com/dcir5216l/image/upload/v1727334047/Shrutika_Rode_Chief_Coordinator_ioeg2e.jpg",
@@ -29,7 +29,7 @@ const teams = [{
         Post: "Chief Coordinator",
         l: "http://linkedin.com/in/shrutika-rode-328b60318/",
         i: "https://www.instagram.com/rode_shrutika?igsh=bjdyMWM1aXo0bWMw",
-        m: "mailto:shrutikarode4@gmail.com"
+        m: 'mailto:shrutikarode4@gmail.com'
     },
 
     {
@@ -38,7 +38,7 @@ const teams = [{
         Post: "Treasurer",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333871/Vedant_Bhosale_Treasurer__bbrsoj.jpg",
@@ -46,7 +46,7 @@ const teams = [{
         Post: "Treasurer",
         l: "https://www.linkedin.com/in/vedant-bhosale-0985481b4",
         i: "https://www.instagram.com/vedant_.06?igsh=bWRnN2drZHNkeDFh",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727333740/Pratiksha_Savandakar_Diploma_Coordinator_vgedsl.jpg",
@@ -54,7 +54,7 @@ const teams = [{
         Post: "Diploma Coordinator",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334192/Smit_Nagarkar_Diploma_Coordinator_hv74zx.jpg",
@@ -62,7 +62,7 @@ const teams = [{
         Post: "Diploma Coordinator",
         l: "https://www.linkedin.com/in/smit-nagarkar-54a8b8278",
         i: "https://www.instagram.com/s.m.i.t1706/",
-        m: "mailto: "
+        m: 'mailto:'
     },
 ];
 
@@ -75,7 +75,7 @@ const sectorHeads = [
         Post: "Chief Execution Officer",
         l: "",
         i: "https://www.instagram.com/vedantwadu?igsh=MWRjaXg4a3RmNjU0Zw%3D%3D&utm_source=qr",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334803/Shruti_Jawale_Execution_Chief_Officer_m00lhk.jpg",
@@ -83,7 +83,7 @@ const sectorHeads = [
         Post: "Chief Execution Officer",
         l: "https://www.linkedin.com/in/shruti-jawale-2a74a0286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         i: "https://www.instagram.com/shrutiijawale._?igsh=MTcxMHV1YW53ZnA1dQ%3D%3D&utm_source=qr",
-        m: "mailto: "
+        m: 'mailto:shrutijawale115@gmail.com'
     },
     {
         img:"https://res.cloudinary.com/dcir5216l/image/upload/v1727334799/Shubham_Wagale_Execution_chief_officer_shofkk.jpg",
@@ -91,7 +91,7 @@ const sectorHeads = [
         Post: "Chief Execution Officer",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     //Chief Public Relation Officer
     {
@@ -100,7 +100,7 @@ const sectorHeads = [
         Post: "Chief Public Relation Officer",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:npushapak@gmail.com '
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334956/Arya_Dongare_PR_Chief_officer_otkdfm.jpg",
@@ -108,7 +108,7 @@ const sectorHeads = [
         Post: "Chief Public Relation Officer",
         l: "",
         i: "https://www.instagram.com/dongare_arya?igsh=cTd6aWNudmo3bXJm",
-        m: "mailto: "
+        m: 'mailto:'
     },
     //Chief Marketing Officer
     {
@@ -117,7 +117,7 @@ const sectorHeads = [
         Post: "Chief Marketing Officer",
         l: "",
         i: "https://www.instagram.com/sparrkshitij?igsh=d2NnZWVpZzNneGVp",
-        m: "mailto: "
+        m: 'mailto:kshitijsuradkar7@gmail.com'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293841/Rutuja_Mathkar_Marketing_Cheif_Officer_toz8pe.jpg",
@@ -125,7 +125,7 @@ const sectorHeads = [
         Post: "Chief Marketing Officer",
         l: "https://www.linkedin.com/in/rutuja-mathkar-30a00a30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         i: "https://www.instagram.com/rutuja_mathkar07?igsh=MXE0aTM1bTIzaDhyMw==",
-        m: "mailto: "
+        m: 'mailto:rutuja.mmathkar@gmail.com'
     },
     //Chief Outreach Officer 
     {
@@ -134,7 +134,7 @@ const sectorHeads = [
         Post: "Chief Outreach Officer",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1729445885/Shlok_Ghanwat_Outreach_Chief_Officer_c0lgio.",
@@ -142,7 +142,7 @@ const sectorHeads = [
         Post: "Chief Outreach Officer",
         l: "https://www.linkedin.com/in/shlok-ghanwat-794294263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         i: "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/shlokghanwat/&ved=2ahUKEwiB-4-z6cGIAxUad2wGHUBYETwQFnoECBQQAQ&usg=AOvVaw2KzC8JW_a3fGyTudi3aC4y",
-        m: "mailto: "
+        m: 'mailto:shlokghanwat2210@gmail.com'
     },
     //Chief Sponsorship Officer
     {
@@ -150,8 +150,8 @@ const sectorHeads = [
         name: "Sushant Wagh",
         Post: "Chief Sponsorship Officer",
         l: "",
-        i: "",
-        m: "mailto: "
+        i: "https://www.instagram.com/sushant_wagh174/profilecard/?igsh=MTJxdGVnYm5tbXcweQ==",
+        m: 'mailto:mitznamey@gmail.com'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1728163664/Sakshi_Mate_Sponsership_ChiefOfficer_pnvsfq.jpg",
@@ -159,7 +159,7 @@ const sectorHeads = [
         Post: "Chief Sponsorship Officer",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1731871156/IMG_20241118_004738_ircxgh.jpg",
@@ -167,7 +167,7 @@ const sectorHeads = [
         Post: "Chief Sponsorship Officer",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     //Chief Design Officer
     {
@@ -176,7 +176,7 @@ const sectorHeads = [
         Post: "Chief Design Officer",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293529/Prerna_Tandale_Design_Chief_Officer_lxh7tc.jpg",
@@ -184,7 +184,7 @@ const sectorHeads = [
         Post: "Chief Design Officer",
         l: "https://www.linkedin.com/in/prerna-tandale-b95a92322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         i: "https://www.instagram.com/bappalover_pt?igsh=b2gyNWVoMzN1cnJ1",
-        m: "mailto: ",
+        m: 'mailto:prerna.tandale9123@gmail.com',
     },
     //Chief Content Officer
     {
@@ -193,7 +193,7 @@ const sectorHeads = [
         Post: "Chief Content Officer",
         l: "",
         i: "",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1728164678/Riddhi__Dapke_Content_Chief_zdwzhl.jpg",
@@ -201,7 +201,7 @@ const sectorHeads = [
         Post: "Chief Content Officer",
         l: "https://www.linkedin.com/in/riddhi-dapke-7b164625b/",
         i: "",
-        m: "mailto: "
+        m: 'mailto:dapkeriddhi@gmail.com'
     },
     
     
@@ -212,7 +212,7 @@ const sectorHeads = [
         Post: "Chief Digital&Social Media Officer",
         l: "",
         i: "https://www.instagram.com/atharvakate4242?igsh=djZodXJpZnRlenN6",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1728164825/Vaishnavi_Sonar_digital_Chief_officer__lrufq1.jpg",
@@ -220,7 +220,7 @@ const sectorHeads = [
         Post: "Chief Digital&Social Media Officer",
         l: "",
         i: "https://www.instagram.com/_vaishhhh18__?igsh=dGNjY2kyeDhuaWd3",
-        m: "mailto: "
+        m: 'mailto:vaishnavisonar2004@gmail.com '
     },
     //Chief Performing Art Officer
     {
@@ -229,7 +229,7 @@ const sectorHeads = [
         Post: "Chief Performing Art Officer",
         l: "https://www.linkedin.com/in/piyush-khismatrao-8766b730a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
         i: "https://www.instagram.com/piyush_khis27?igsh=MTZwY3JjNTIxd3Mwcg%3D%3D&utm_source=qr",
-        m: "mailto: "
+        m: 'mailto:'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1728164950/AARTI_PARDESHI_CHIEF_PERFORMING_ARTS_l0hngr.jpg",
@@ -237,7 +237,7 @@ const sectorHeads = [
         Post: "Chief Performing Art Officer",
         l: "https://www.linkedin.com/in/aarti-pardeshi-4647692b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         i: "https://www.instagram.com/aartipardeshi04?igsh=djVsOTN1dGJmcG90",
-        m: "mailto: "
+        m: 'mailto:'
     },
 
 ];
