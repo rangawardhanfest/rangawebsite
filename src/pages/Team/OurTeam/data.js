@@ -12,7 +12,7 @@ const teams = [{
         Post: "Secretary",
         l: "https://www.linkedin.com/in/vedika-bharmal-1b4b1b2bb/",
         i: "https://www.instagram.com/vedaa.___/profilecard/?igsh=MTc1b3Mzem9xMmxlNQ==",
-        m: "mailto: bharmalvedika@gmail.com"
+        m: "mailto:bharmalvedika@gmail.com"
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726293436/Kalpesh_Deshmukh___Chief_Coordinator__iwdwx7.jpg",
@@ -28,7 +28,7 @@ const teams = [{
         Post: "Chief Coordinator",
         l: "https://linkedin.com/in/shrutika-rode-328b60318",
         i: "https://www.instagram.com/rode_shrutika?igsh=bjdyMWM1aXo0bWMw",
-        m: "mailto: shrutikarode4@gmail.com"
+        m: "mailto:shrutikarode4@gmail.com"
     },
 
     {
@@ -107,17 +107,17 @@ const pastTeam = [{
 const mentor = [{
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726862447/sir_av0lxm.jpg",
         name: "Mandar Tendolkar",
-        mail: 'mailto: mvtendolkar@me.vjti.ac.in'
+        mail: 'mailto:mvtendolkar@me.vjti.ac.in'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726862446/mansimaam_hbhipj.jpg",
         name: "Manasi Kulkarni",
-        mail: 'mailto: mukulkarni@ce.vjti.ac.in'
+        mail: 'mailto:mukulkarni@ce.vjti.ac.in'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726862446/anjalimaam_axgijr.jpg",
         name: "Anjali Dhiware",
-        mail: 'mailto: ardhiware@me.vjti.ac.in'
+        mail: 'mailto:ardhiware@me.vjti.ac.in'
     }
 ]
 

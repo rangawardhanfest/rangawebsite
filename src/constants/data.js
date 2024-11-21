@@ -98,7 +98,7 @@ const teams = [{
         Post: 'Chief Technical Officer',
         l: 'https://www.linkedin.com/in/harshalam334/',
         i: 'https://www.instagram.com/m.harshala_99/',
-        m: 'mailto: mharshala334@gmail.com'
+        m: 'mailto:mharshala334@gmail.com'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1727334462/Pushkar_Sanap_Technical_Head_uzz7ba.jpg",
@@ -131,7 +131,7 @@ const Pastteams = [{
         Post: 'Chief Officer',
         l: 'https://www.linkedin.com/in/mahesh-thakare-574386226?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
         i: 'https://www.instagram.com/maheshthakare__2003?igsh=MWpwNDVrOHZuYmc2Zw==',
-        m: 'mailto: mvthakare_b21@ce.vjti.ac.in'
+        m: 'mailto:mvthakare_b21@ce.vjti.ac.in'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726861690/Ashok_cn93lz.jpg",
@@ -139,7 +139,7 @@ const Pastteams = [{
         Post: 'Technical Head',
         l: 'https://www.linkedin.com/in/ashok-shekade-12ba67243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
         i: 'https://www.instagram.com/ashok_shekade_2003?igsh=MWx2bDkwdzh5bTB5aQ==',
-        m: 'mailto: apshekade_b21@ce.vjti.ac.in'
+        m: 'mailto:apshekade_b21@ce.vjti.ac.in'
     },
     {
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1726861689/Arnav_pfemad.jpg",
