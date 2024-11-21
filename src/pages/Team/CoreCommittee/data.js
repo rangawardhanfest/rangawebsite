@@ -165,9 +165,9 @@ const sectorHeads = [
         img: "https://res.cloudinary.com/dcir5216l/image/upload/v1731871156/IMG_20241118_004738_ircxgh.jpg",
         name: "Amey Jawale",
         Post: "Chief Sponsorship Officer",
-        l: "",
-        i: "",
-        m: 'mailto:'
+        l: "https://www.linkedin.com/in/ameyjawale?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        i: "https://www.instagram.com/amey._jawale/profilecard/?igsh=czVycm45NHdzZXpn",
+        m: 'mailto:aajawale_b22@el.vjti.ac.in'
     },
     //Chief Design Officer
     {
