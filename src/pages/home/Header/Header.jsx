@@ -24,7 +24,7 @@ const Header = () => {
             <span className="past">५</span>
            
             <div className="animate-charcter" style = {{marginTop: "2%"}}>रौप्यमहोत्सव समृद्ध महाराष्ट्राच्या गौरवाचा!</div>
-            {/* <div className="animate-charcter">११ सप्टेंबर</div> */}
+            <div className="animate-charcter">१७ ,१८ ,१९ डिसेंबर २०२४ </div>
         </h1> 
     </section>
     </>

@@ -68,7 +68,7 @@ const EventsMain = () => {
               <div className="allevent_card">
                 <div className="event_info">
                   <div className="event_info_img">
-                    <img src="https://res.cloudinary.com/dcir5216l/image/upload/v1730129880/IMG-20241023-WA0009_jwfzeo.jpg"atharvalt="" />
+                    <img src="https://res.cloudinary.com/dcir5216l/image/upload/v1730129880/IMG-20241023-WA0009_jwfzeo.jpg" alt="durg  bhet" />
                   </div>
                   <div className="event_info_name">
                     <h4  style={{fontFamily:"Gotu"}}>दुर्ग भेट </h4>
